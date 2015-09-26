@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article>
+    <h2>{{ page.title }}</h2>
+    <div class="details">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+        {% if page.file %}
+            <audio class="audio-player" style="float:left;" src="{{ site.podcasts }}/{{ post.file }}" controls preload="none"></audio>
+            <div class="download"><a href="{{ site.podcasts }}/{{ post.file }}">Download</a></div>
+        {% endif %}
+    </div>
+    <div class="clr"></div>
+    {{ content }}
+</article>
+
+{% include disqus.html %}

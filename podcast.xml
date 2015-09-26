@@ -1,0 +1,47 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Three Devs and a Maybe</title>
+        <link>{{ site.url }}/</link>
+        <language>en-GB</language>
+        <copyright>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</copyright>
+        <itunes:subtitle>Discussion on Web Development</itunes:subtitle>
+        <itunes:author>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</itunes:author>
+        <itunes:summary>Join us each week as we discuss all things web development. Frequently joined by a far more intelligent guest on the show's topic, we by no means know everything, but love what we do. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.</itunes:summary>
+        <description>Join us each week as we discuss all things web development. Frequently joined by a far more intelligent guest on the show's topic, we by no means know everything, but love what we do. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.</description>
+        <itunes:owner>
+            <itunes:name>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</itunes:name>
+            <itunes:email>michaelbudd6@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="{{ site.url }}/images/cover-art.jpg" />
+        <itunes:category text="Technology"/>
+        <itunes:category text="Education"/>
+        <itunes:category text="Games &amp; Hobbies"/>
+        <itunes:keywords>Web, Development, Software, Design, PHP, HTML, CSS, Programming</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+        {% for post in site.posts %}{% if post.layout == 'podcast' %}
+        <item>
+            <title>{{ post.number }}: {{ post.title | xml_escape }}</title>
+            <link>{{ site.url }}{{ post.url }}</link>
+            <description>{{'<![CDATA['}}{{ post.content | split: '<h3' | first | strip_html }}{{']]>'}}</description>
+            <itunes:author>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</itunes:author>
+            <itunes:summary>{{'<![CDATA['}}{{ post.content | split: '<h3' | first | strip_html }}{{']]>'}}</itunes:summary>
+            <itunes:duration>{{ post.duration }}</itunes:duration>
+            <guid>{{ site.url }}{{ post.url }}</guid>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+            <content:encoded>{{'<![CDATA['}}{{ post.content }}{{']]>'}}</content:encoded>
+            <enclosure url="{{ site.podcasts }}/{{ post.file }}" length="{{ post.size }}" type="audio/mpeg" />
+            <itunes:image href="{{ site.url }}/images/cover-art.jpg" />
+        </item>
+        {% endif %}{% endfor %}
+    </channel>
+</rss>

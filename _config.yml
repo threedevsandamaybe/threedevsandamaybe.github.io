@@ -1,0 +1,19 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:title/
+relative_permalinks: true
+
+# Setup
+paginate:          10
+paginate_path:     "/podcasts/:num/"
+excerpt_separator: "<!--more-->"
+url:               "http://threedevsandamaybe.com"
+podcasts:          "http://podcasts.threedevsandamaybe.com"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: _sass
+  style:    :compressed
