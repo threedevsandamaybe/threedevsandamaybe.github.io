@@ -10,6 +10,7 @@ paginate_path:     "/podcasts/:num/"
 excerpt_separator: "<!--more-->"
 url:               "http://threedevsandamaybe.com"
 podcasts:          "http://podcasts.threedevsandamaybe.com"
+timezone:          "Europe/London"
 
 # Assets
 #
