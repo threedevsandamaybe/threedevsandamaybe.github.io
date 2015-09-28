@@ -6,7 +6,7 @@ file: 40-news-on-php-7-and-how-php-internally-works-with-joe-watkins.mp3
 youtube: yUiOKBJA9jM
 layout: podcast
 number: 40
-size: 39136003
+size: 39135994
 permalink: /posts/news-on-php-7-and-how-php-internally-works-with-joe-watkins/
 duration: 4132
 ---

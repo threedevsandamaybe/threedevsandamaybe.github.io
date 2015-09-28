@@ -6,7 +6,7 @@ file: 43-yarp-yet-another-ramble-podcast.mp3
 youtube: GJFqPZ5JwLA
 layout: podcast
 number: 43
-size: 40612336
+size: 40612327
 duration: 3742
 ---
 

@@ -6,7 +6,7 @@ file: 28-the-php-fig-rfc-codeigniter-3-and-pyrocms-with-phil-sturgeon.mp3
 youtube: nWv1rxJwlC8
 layout: podcast
 number: 28
-size: 35575388
+size: 35575379
 permalink: /posts/the-php-fig-rfc-codeigniter-3-and-pyrocms-with-phil-sturgeon/
 duration: 3732
 ---

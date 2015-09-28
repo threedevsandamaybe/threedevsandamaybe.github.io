@@ -6,7 +6,7 @@ file: 58-life-as-a-software-developer-with-keyvan-akbary.mp3
 youtube: I6JbxWyyUOQ
 layout: podcast
 number: 58
-size: 34061134
+size: 34061125
 duration: 3998
 ---
 

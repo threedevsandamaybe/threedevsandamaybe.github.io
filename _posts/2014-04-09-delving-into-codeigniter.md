@@ -6,7 +6,7 @@ file: 19-delving-into-codeigniter.mp3
 youtube: dm8PfwBTzlA
 layout: podcast
 number: 19
-size: 38811000
+size: 38810991
 permalink: /posts/delving-into-codeigniter/
 duration: 4409
 ---

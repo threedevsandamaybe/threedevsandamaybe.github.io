@@ -6,7 +6,7 @@ file: 66-easy-like-sunday-morning.mp3
 youtube: _PJJ1CvME98
 layout: podcast
 number: 66
-size: 35760537
+size: 35760528
 duration: 3577
 ---
 

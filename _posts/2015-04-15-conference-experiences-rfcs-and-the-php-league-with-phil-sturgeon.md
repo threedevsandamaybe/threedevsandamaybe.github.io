@@ -6,7 +6,7 @@ file: 61-conference-experiences-rfcs-and-the-php-league-with-phil-sturgeon.mp3
 youtube: DjGgTUrK5tc
 layout: podcast
 number: 61
-size: 32340874
+size: 32340865
 duration: 3476
 ---
 

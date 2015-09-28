@@ -6,7 +6,7 @@ file: 31-laravel-code-bright-and-phpandas-with-dayle-rees.mp3
 youtube: z7jBZq9ThfQ
 layout: podcast
 number: 31
-size: 45012733
+size: 45012724
 permalink: /posts/laravel-code-bright-and-phpandas-with-dayle-rees/
 duration: 4519
 ---

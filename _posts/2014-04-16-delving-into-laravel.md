@@ -6,7 +6,7 @@ file: 20-delving-into-laravel.mp3
 youtube: WqYvTbTwDdE
 layout: podcast
 number: 20
-size: 40790169
+size: 40790160
 permalink: /posts/delving-into-laravel/
 duration: 4487
 ---

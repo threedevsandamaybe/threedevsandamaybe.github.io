@@ -6,7 +6,7 @@ file: 3-web-hosting-part-1.mp3
 youtube: wwevEWGLCG8
 layout: podcast
 number: 3
-size: 33282280
+size: 33282271
 permalink: /posts/web-hosting-part-1/
 duration: 3551
 ---

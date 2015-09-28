@@ -6,7 +6,7 @@ file: 2-getting-started.mp3
 youtube: ttRddr-_2YE
 layout: podcast
 number: 2
-size: 28951851
+size: 28951842
 permalink: /posts/getting-started/
 duration: 3056
 ---

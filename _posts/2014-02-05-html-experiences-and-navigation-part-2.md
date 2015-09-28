@@ -6,7 +6,7 @@ file: 10-html-experiences-and-navigation-implementation-part-2.mp3
 youtube: sASPnCLmD0A
 layout: podcast
 number: 10
-size: 40252252
+size: 40252243
 permalink: /posts/html-experiences-and-navigation-implementation-part-2/
 duration: 4505
 ---

@@ -6,7 +6,7 @@ file: 57-the-red-n-blue-corners.mp3
 youtube: mVm9Yfh_vHk
 layout: podcast
 number: 57
-size: 33728684
+size: 33728675
 duration: 3324
 ---
 

@@ -6,7 +6,7 @@ file: 29-introduction-to-gnu-linux-and-distributions-with-paul-bowden.mp3
 youtube: FZnTosyMqLk
 layout: podcast
 number: 29
-size: 44339594
+size: 44339585
 permalink: /posts/introduction-to-gnu-linux-and-distributions-with-paul-bowden/
 duration: 4166
 ---

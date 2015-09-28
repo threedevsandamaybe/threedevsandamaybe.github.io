@@ -6,7 +6,7 @@ file: 41-stack-and-sculpin-with-beau-simensen.mp3
 youtube: CMWSsXoaTqk
 layout: podcast
 number: 41
-size: 39255265
+size: 39255256
 permalink: /posts/stack-and-sculpin-with-beau-simensen/
 duration: 3912
 ---

@@ -6,7 +6,7 @@ file: 69-windows-development-and-side-projects-with-jimmy-burrell.mp3
 youtube: CV1E8DF6JuY
 layout: podcast
 number: 69
-size: 32191924
+size: 32191915
 duration: 3265
 ---
 

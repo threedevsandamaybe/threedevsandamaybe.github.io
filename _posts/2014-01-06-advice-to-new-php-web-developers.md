@@ -6,7 +6,7 @@ file: 6-advice-to-new-php-web-developers.mp3
 youtube: 8wvWNU-36l8
 layout: podcast
 number: 6
-size: 32521873
+size: 32521864
 permalink: /posts/advice-to-new-php-web-developers/
 duration: 3793
 ---

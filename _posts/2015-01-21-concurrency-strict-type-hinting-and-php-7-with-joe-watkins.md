@@ -6,7 +6,7 @@ file: 55-concurrency-strict-type-hinting-and-php-7-with-joe-watkins.mp3
 youtube: LmLLD1P_84Q
 layout: podcast
 number: 55
-size: 39530165
+size: 39530156
 duration: 3939
 ---
 

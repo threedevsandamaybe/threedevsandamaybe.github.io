@@ -6,7 +6,7 @@ file: 51-midweek-random-rambles.mp3
 youtube: j7zhFth-H9k
 layout: podcast
 number: 51
-size: 53569257
+size: 53569248
 duration: 3882
 ---
 

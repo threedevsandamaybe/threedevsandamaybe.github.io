@@ -6,7 +6,7 @@ file: 22-exception-and-error-handling.mp3
 youtube: mR3cN20SoWU
 layout: podcast
 number: 22
-size: 42662765
+size: 42662756
 permalink: /posts/exception-and-error-handling/
 duration: 4477
 ---

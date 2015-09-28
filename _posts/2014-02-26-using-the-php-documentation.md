@@ -6,7 +6,7 @@ file: 13-using-the-php-documentation.mp3
 youtube: N2e9nPRhNL4
 layout: podcast
 number: 13
-size: 35319852
+size: 35319843
 permalink: /posts/using-the-php-documentation/
 duration: 3930
 ---

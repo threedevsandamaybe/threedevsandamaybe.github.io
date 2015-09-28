@@ -6,7 +6,7 @@ file: 56-the-solid-podcast.mp3
 youtube: 7Fx1de0LZYM
 layout: podcast
 number: 56
-size: 43041712
+size: 43041703
 duration: 3865
 ---
 

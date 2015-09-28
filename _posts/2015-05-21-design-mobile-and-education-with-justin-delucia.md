@@ -6,7 +6,7 @@ file: 65-design-mobile-and-education-with-justin-delucia.mp3
 youtube: LE3V615HIEQ
 layout: podcast
 number: 65
-size: 34535184
+size: 34535175
 duration: 3559
 ---
 

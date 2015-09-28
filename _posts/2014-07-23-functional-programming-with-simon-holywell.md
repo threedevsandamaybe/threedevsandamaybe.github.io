@@ -6,7 +6,7 @@ file: 35-functional-programming-with-simon-holywell.mp3
 youtube: AX21yJaRuxM
 layout: podcast
 number: 35
-size: 24663074
+size: 24663065
 permalink: /posts/functional-programming-with-simon-holywell/
 duration: 2520
 ---

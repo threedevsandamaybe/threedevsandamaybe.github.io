@@ -6,7 +6,7 @@ file: 5-exploring-text-source-editors-and-ides.mp3
 youtube: B_3gf3YspAA
 layout: podcast
 number: 5
-size: 35258283
+size: 35258274
 permalink: /posts/exploring-text-source-editors-and-ides/
 duration: 4110
 ---

@@ -6,7 +6,7 @@ file: 70-composer-monolog-and-symfony2-with-jordi-boggiano.mp3
 youtube: leHdV_NHv7M
 layout: podcast
 number: 70
-size: 31552759
+size: 31552750
 duration: 3256
 ---
 

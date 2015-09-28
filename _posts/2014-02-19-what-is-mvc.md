@@ -6,7 +6,7 @@ file: 12-what-is-mvc.mp3
 youtube: Fnw8kIigafM
 layout: podcast
 number: 12
-size: 36311078
+size: 36311069
 permalink: /posts/what-is-mvc/
 duration: 4049
 ---

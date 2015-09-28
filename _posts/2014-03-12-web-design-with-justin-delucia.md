@@ -6,7 +6,7 @@ file: 15-web-design-with-justin-delucia.mp3
 youtube: IEgejKwHG6g
 layout: podcast
 number: 15
-size: 54390944
+size: 54390935
 permalink: /posts/web-design-with-justin-delucia/
 duration: 6014
 ---

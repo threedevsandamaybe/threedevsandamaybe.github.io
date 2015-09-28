@@ -6,7 +6,7 @@ file: 21-introduction-to-javascript.mp3
 youtube: G0lE7VBZrP0
 layout: podcast
 number: 21
-size: 39022582
+size: 39022573
 permalink: /posts/introduction-to-javascript/
 duration: 4380
 ---

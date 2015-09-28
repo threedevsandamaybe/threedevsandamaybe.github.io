@@ -6,7 +6,7 @@ file: 36-the-first-qa-show-with-justin-delucia.mp3
 youtube: dO638T85p5E
 layout: podcast
 number: 36
-size: 38607437
+size: 38607428
 permalink: /posts/the-first-qa-show-with-justin-delucia/
 duration: 3906
 ---

@@ -6,7 +6,7 @@ file: 38-the-first-all-episode-quiz.mp3
 youtube: OV-9eiVzqzI
 layout: podcast
 number: 38
-size: 45653107
+size: 45653098
 permalink: /posts/the-first-all-episode-quiz/
 duration: 4633
 ---

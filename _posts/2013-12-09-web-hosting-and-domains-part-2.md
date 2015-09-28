@@ -6,7 +6,7 @@ file: 4-web-hosting-and-domains-part-2.mp3
 youtube: 5iDnQAucklI
 layout: podcast
 number: 4
-size: 37034058
+size: 37034049
 permalink: /posts/web-hosting-and-domains-part-2/
 duration: 3955
 ---

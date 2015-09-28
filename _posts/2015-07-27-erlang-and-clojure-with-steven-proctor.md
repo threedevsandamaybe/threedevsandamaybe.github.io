@@ -6,7 +6,7 @@ file: 71-erlang-and-clojure-with-steven-proctor.mp3
 youtube: fGQEEkQjsIc
 layout: podcast
 number: 71
-size: 34641056
+size: 34641047
 duration: 4208
 ---
 

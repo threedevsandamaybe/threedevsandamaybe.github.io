@@ -6,7 +6,7 @@ file: 68-podcasting-remote-working-and-testing-with-adam-wathan.mp3
 youtube: LFj56Nv0KTE
 layout: podcast
 number: 68
-size: 42323210
+size: 42323201
 duration: 4258
 ---
 

@@ -6,7 +6,7 @@ file: 63-working-remote.mp3
 youtube: niGH1XPMlEo
 layout: podcast
 number: 63
-size: 32228805
+size: 32228796
 duration: 3370
 ---
 

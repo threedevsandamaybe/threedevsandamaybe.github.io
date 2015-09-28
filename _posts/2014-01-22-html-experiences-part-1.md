@@ -6,7 +6,7 @@ file: 8-html-experiences-part-1.mp3
 youtube: JA9YYeFq65E
 layout: podcast
 number: 8
-size: 33528622
+size: 33528613
 permalink: /posts/html-experiences-part-1/
 duration: 3738
 ---

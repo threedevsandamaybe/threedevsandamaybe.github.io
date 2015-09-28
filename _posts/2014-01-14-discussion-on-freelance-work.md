@@ -6,7 +6,7 @@ file: 7-discussion-on-freelance-work.mp3
 youtube: mOHVlmuaoHo
 layout: podcast
 number: 7
-size: 35088010
+size: 35088001
 permalink: /posts/discussion-on-freelance-work/
 duration: 3879
 ---

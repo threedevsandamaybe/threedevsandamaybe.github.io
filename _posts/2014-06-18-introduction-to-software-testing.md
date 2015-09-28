@@ -6,7 +6,7 @@ file: 30-introduction-to-software-testing.mp3
 youtube: fpP6TB73dpM
 layout: podcast
 number: 30
-size: 39259432
+size: 39259423
 permalink: /posts/introduction-to-software-testing/
 duration: 3894
 ---
