@@ -1,7 +1,7 @@
 ---
 title: Functional Programming with Simon Holywell
 abstract: An introduction to the functional programming paradigm with Simon Holywell.
-date: 2014-07-23T07:00:00.000Z
+date: 2014-07-23T06:00:00.000Z
 file: 35-functional-programming-with-simon-holywell.mp3
 youtube: AX21yJaRuxM
 layout: podcast

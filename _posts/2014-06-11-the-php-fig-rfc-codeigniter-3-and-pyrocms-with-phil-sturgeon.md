@@ -1,7 +1,7 @@
 ---
 title: 'The PHP-FIG/RFC, CodeIgniter 3 and PyroCMS with Phil Sturgeon'
 abstract: Discussion on a wide-variety of PHP topics with Phil Sturgeon
-date: 2014-06-11T21:30:00.000Z
+date: 2014-06-11T20:30:00.000Z
 file: 28-the-php-fig-rfc-codeigniter-3-and-pyrocms-with-phil-sturgeon.mp3
 youtube: nWv1rxJwlC8
 layout: podcast

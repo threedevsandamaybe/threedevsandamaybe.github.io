@@ -1,7 +1,7 @@
 ---
 title: Exception and Error Handling
 abstract: 'An introduction to error handling, focusing on exceptions.'
-date: 2014-04-30T23:45:00.000Z
+date: 2014-04-30T22:45:00.000Z
 file: 22-exception-and-error-handling.mp3
 youtube: mR3cN20SoWU
 layout: podcast

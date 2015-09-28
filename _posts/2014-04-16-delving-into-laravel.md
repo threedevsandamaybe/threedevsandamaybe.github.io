@@ -1,7 +1,7 @@
 ---
 title: Delving into Laravel
 abstract: An introduction to the quickly growing PHP framework.
-date: 2014-04-16T23:30:00.000Z
+date: 2014-04-16T22:30:00.000Z
 file: 20-delving-into-laravel.mp3
 youtube: WqYvTbTwDdE
 layout: podcast

@@ -1,7 +1,7 @@
 ---
 title: 'Design, Mobile and Education with Justin DeLucia'
 abstract: 'Discussion on the changing role of the designer, education and mobile'
-date: 2015-05-21T17:20:00.000Z
+date: 2015-05-21T16:20:00.000Z
 file: 65-design-mobile-and-education-with-justin-delucia.mp3
 youtube: LE3V615HIEQ
 layout: podcast

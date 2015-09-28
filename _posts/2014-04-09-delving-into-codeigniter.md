@@ -1,7 +1,7 @@
 ---
 title: Delving into CodeIgniter
 abstract: 'A look at the mature, small footprint web application framework.'
-date: 2014-04-09T23:00:00.000Z
+date: 2014-04-09T22:00:00.000Z
 file: 19-delving-into-codeigniter.mp3
 youtube: dm8PfwBTzlA
 layout: podcast

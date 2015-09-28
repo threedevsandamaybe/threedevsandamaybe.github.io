@@ -1,7 +1,7 @@
 ---
 title: "Conference Experiences, RFC's and The PHP League with Phil Sturgeon"
 abstract: "Discussion on Conferences, PHP RFC's, The PHP League and much more"
-date: 2015-04-15T10:30:00.000Z
+date: 2015-04-15T09:30:00.000Z
 file: 61-conference-experiences-rfcs-and-the-php-league-with-phil-sturgeon.mp3
 youtube: DjGgTUrK5tc
 layout: podcast

@@ -1,7 +1,7 @@
 ---
 title: Erlang and Clojure with Steven Proctor
 abstract: 'Discussion on thinking like an Erlanger, Clojure and Functional Programming'
-date: 2015-07-27T10:50:00.000Z
+date: 2015-07-27T09:50:00.000Z
 file: 71-erlang-and-clojure-with-steven-proctor.mp3
 youtube: fGQEEkQjsIc
 layout: podcast

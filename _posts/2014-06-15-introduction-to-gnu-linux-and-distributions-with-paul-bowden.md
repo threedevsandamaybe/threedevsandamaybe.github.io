@@ -1,7 +1,7 @@
 ---
 title: Introduction to GNU/Linux and Distributions with Paul Bowden
 abstract: An introduction to the world of GNU/Linux for any budding convert.
-date: 2014-06-15T19:45:00.000Z
+date: 2014-06-15T18:45:00.000Z
 file: 29-introduction-to-gnu-linux-and-distributions-with-paul-bowden.mp3
 youtube: FZnTosyMqLk
 layout: podcast

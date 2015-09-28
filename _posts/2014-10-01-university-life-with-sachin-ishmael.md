@@ -1,7 +1,7 @@
 ---
 title: University Life with Sachin Ishmael
 abstract: "Discussion with Sachin Ishmael about University, Multimedia and 'HTML vs. Flash'"
-date: 2014-10-01T07:00:00.000Z
+date: 2014-10-01T06:00:00.000Z
 file: 45-university-life-with-sachin-ishmael.mp3
 youtube: Lf6JXcvPOsE
 layout: podcast

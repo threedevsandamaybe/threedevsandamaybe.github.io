@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Java and C#'
 abstract: 'An introductory discussion on Java and C#, comparing the two languages.'
-date: 2014-08-20T13:11:38.000Z
+date: 2014-08-20T12:11:38.000Z
 file: 39-introduction-to-java-and-c-sharp.mp3
 youtube: 7wqUm1BccbY
 layout: podcast

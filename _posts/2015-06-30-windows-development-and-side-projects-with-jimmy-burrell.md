@@ -1,7 +1,7 @@
 ---
 title: Windows Development and Side-Projects with Jimmy Burrell
 abstract: Discussion on developing the HostSignalz side-project for the Windows platform
-date: 2015-06-30T20:20:00.000Z
+date: 2015-06-30T19:20:00.000Z
 file: 69-windows-development-and-side-projects-with-jimmy-burrell.mp3
 youtube: CV1E8DF6JuY
 layout: podcast

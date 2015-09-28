@@ -1,7 +1,7 @@
 ---
 title: YARP (Yet Another Ramble Podcast)
 abstract: "Ramblings on WebSockets, Gulp, Git rebasing and 'Active Record vs. Data Mapper'"
-date: 2014-09-17T07:00:00.000Z
+date: 2014-09-17T06:00:00.000Z
 file: 43-yarp-yet-another-ramble-podcast.mp3
 youtube: GJFqPZ5JwLA
 layout: podcast

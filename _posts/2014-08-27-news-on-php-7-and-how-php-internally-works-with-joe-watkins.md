@@ -1,7 +1,7 @@
 ---
 title: 'News on PHP 7, and how PHP internally works with Joe Watkins'
 abstract: The latest news on PHP 7 and how PHP internally works to execute your code.
-date: 2014-08-27T13:00:00.000Z
+date: 2014-08-27T12:00:00.000Z
 file: 40-news-on-php-7-and-how-php-internally-works-with-joe-watkins.mp3
 youtube: yUiOKBJA9jM
 layout: podcast

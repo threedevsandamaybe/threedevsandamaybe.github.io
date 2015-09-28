@@ -1,7 +1,7 @@
 ---
 title: PHP 7 Extension Development with Joe Watkins
 abstract: 'Discussion on design decisions behind pthreads v3, extension development and much more...'
-date: 2015-09-17T09:25:00.000Z
+date: 2015-09-17T08:25:00.000Z
 file: 73-php-7-extension-development-with-joe-watkins.mp3
 youtube: vLD4cUHMT5I
 layout: podcast

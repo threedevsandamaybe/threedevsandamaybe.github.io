@@ -1,7 +1,7 @@
 ---
 title: Stack and Sculpin with Beau Simensen
 abstract: Discussion on the Stack and Sculpin projects with Beau Simensen
-date: 2014-09-02T20:28:28.000Z
+date: 2014-09-02T19:28:28.000Z
 file: 41-stack-and-sculpin-with-beau-simensen.mp3
 youtube: CMWSsXoaTqk
 layout: podcast

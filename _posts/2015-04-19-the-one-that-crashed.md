@@ -1,7 +1,7 @@
 ---
 title: 'The One That Crashed!'
 abstract: "Discussion on Varnish, ESI's, React, AES and New Relic"
-date: 2015-04-19T19:00:00.000Z
+date: 2015-04-19T18:00:00.000Z
 file: 62-the-one-that-crashed.mp3
 youtube: OOQOomJ0mWA
 layout: podcast

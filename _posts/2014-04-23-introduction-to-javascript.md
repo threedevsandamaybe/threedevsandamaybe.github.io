@@ -1,7 +1,7 @@
 ---
 title: Introduction to JavaScript
 abstract: An introduction to the dynamic JavaScript programming language.
-date: 2014-04-23T23:30:00.000Z
+date: 2014-04-23T22:30:00.000Z
 file: 21-introduction-to-javascript.mp3
 youtube: G0lE7VBZrP0
 layout: podcast

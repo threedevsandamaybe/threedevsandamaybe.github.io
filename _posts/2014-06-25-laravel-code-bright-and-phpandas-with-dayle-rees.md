@@ -1,7 +1,7 @@
 ---
 title: 'Laravel, Code Bright and PHPandas with Dayle Rees'
 abstract: 'Discussion on all things Laravel, Code Bright and PHPandas.'
-date: 2014-06-25T20:30:00.000Z
+date: 2014-06-25T19:30:00.000Z
 file: 31-laravel-code-bright-and-phpandas-with-dayle-rees.mp3
 youtube: z7jBZq9ThfQ
 layout: podcast

@@ -1,7 +1,7 @@
 ---
 title: Working with Git
 abstract: Introductory screencast on getting to grips with day-to-day Git use
-date: 2015-09-15T09:30:00.000Z
+date: 2015-09-15T08:30:00.000Z
 layout: screencast
 ---
 

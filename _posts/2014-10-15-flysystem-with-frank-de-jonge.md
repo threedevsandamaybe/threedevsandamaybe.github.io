@@ -1,7 +1,7 @@
 ---
 title: Flysystem with Frank de Jonge
 abstract: 'Discussion with Frank on all things Flysystem, Freelancing and Laracon'
-date: 2014-10-15T09:30:00.000Z
+date: 2014-10-15T08:30:00.000Z
 file: 47-flysystem-with-frank-de-jonge.mp3
 youtube: g_TfKtAwhEA
 layout: podcast

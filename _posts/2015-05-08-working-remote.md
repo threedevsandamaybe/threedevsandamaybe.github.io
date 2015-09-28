@@ -1,7 +1,7 @@
 ---
 title: Working Remote
 abstract: Discussion and experiences on working as a remote developer with Joe Watkins
-date: 2015-05-08T12:00:00.000Z
+date: 2015-05-08T11:00:00.000Z
 file: 63-working-remote.mp3
 youtube: niGH1XPMlEo
 layout: podcast

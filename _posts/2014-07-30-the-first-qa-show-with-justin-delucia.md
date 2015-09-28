@@ -1,7 +1,7 @@
 ---
 title: 'The First Q&A Show with Justin DeLucia'
 abstract: Our first show dedicated to question and answers with Justin DeLucia.
-date: 2014-07-30T07:00:00.000Z
+date: 2014-07-30T06:00:00.000Z
 file: 36-the-first-qa-show-with-justin-delucia.mp3
 youtube: dO638T85p5E
 layout: podcast

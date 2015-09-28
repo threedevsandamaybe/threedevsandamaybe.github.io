@@ -1,7 +1,7 @@
 ---
 title: Understanding Character Sets and Encodings
 abstract: 'In-depth discussion on ASCII, ISO-8859-* and Unicode (UTF-8 etc.)'
-date: 2014-05-14T10:00:00.000Z
+date: 2014-05-14T09:00:00.000Z
 file: 24-understanding-character-sets-and-encodings.mp3
 youtube: oKw-Hm_Fsm8
 layout: podcast

@@ -1,7 +1,7 @@
 ---
 title: Delving into CakePHP with James Watts
 abstract: An introduction to CakePHP and its future direction with James Watts.
-date: 2014-07-16T07:00:00.000Z
+date: 2014-07-16T06:00:00.000Z
 file: 34-delving-into-cakephp-with-james-watts.mp3
 youtube: 0uHp2gYrLZo
 layout: podcast

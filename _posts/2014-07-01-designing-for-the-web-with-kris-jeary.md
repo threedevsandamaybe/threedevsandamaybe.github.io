@@ -1,7 +1,7 @@
 ---
 title: Designing for the Web with Kris Jeary
 abstract: Discussion with Kris Jeary about his process used to design for the web.
-date: 2014-07-01T20:00:00.000Z
+date: 2014-07-01T19:00:00.000Z
 file: 32-designing-for-the-web-with-kris-jeary.mp3
 youtube: mrrhnD1LrWk
 layout: podcast

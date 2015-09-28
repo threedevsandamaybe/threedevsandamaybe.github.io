@@ -1,7 +1,7 @@
 ---
 title: Introduction to Web Application Frameworks
 abstract: An introduction to the world of web application frameworks.
-date: 2014-04-02T19:00:00.000Z
+date: 2014-04-02T18:00:00.000Z
 file: 18-introduction-to-web-application-frameworks.mp3
 youtube: TSDMpMq2q0k
 layout: podcast

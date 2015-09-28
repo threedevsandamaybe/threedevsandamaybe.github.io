@@ -1,7 +1,7 @@
 ---
 title: "Guess Who's Back?"
 abstract: 'Discussion on Responsive Email Design, PHPStorm, Swift, Clean Coders and Task Managers'
-date: 2014-09-24T09:30:00.000Z
+date: 2014-09-24T08:30:00.000Z
 file: 44-guess-whos-back.mp3
 youtube: hzafzH0h4jg
 layout: podcast

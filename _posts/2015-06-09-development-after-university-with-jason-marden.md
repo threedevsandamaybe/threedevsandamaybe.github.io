@@ -1,7 +1,7 @@
 ---
 title: Development after University with Jason Marden
 abstract: 'Discussion on Software Design, Testing and Development after University'
-date: 2015-06-09T15:30:00.000Z
+date: 2015-06-09T14:30:00.000Z
 file: 67-development-after-university-with-jason-marden.mp3
 youtube: mWCREq8nEEI
 layout: podcast

@@ -1,7 +1,7 @@
 ---
 title: 'PHP Internals, pthreads and PHPDBG with Joe Watkins'
 abstract: 'Looking into PHP Internals, pthreads and the PHPDBG project.'
-date: 2014-05-28T21:30:00.000Z
+date: 2014-05-28T20:30:00.000Z
 file: 26-php-internals-pthreads-and-phpdbg-with-joe-watkins.mp3
 youtube: 5smkrsG-vQY
 layout: podcast

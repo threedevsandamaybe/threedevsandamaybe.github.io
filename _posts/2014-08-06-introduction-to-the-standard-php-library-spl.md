@@ -1,7 +1,7 @@
 ---
 title: Introduction to the Standard PHP Library (SPL)
 abstract: 'An introduction to the Standard PHP Library, used to solve common problems.'
-date: 2014-08-06T20:15:28.000Z
+date: 2014-08-06T19:15:28.000Z
 file: 37-introduction-to-the-standard-php-library-spl.mp3
 youtube: DdylTVtBUsg
 layout: podcast

@@ -1,7 +1,7 @@
 ---
 title: 'ReactJS, Flux and Screencasting'
 abstract: 'Discussion on ReactJS, Flux architecture, Session hijacking and much more...'
-date: 2015-09-14T11:00:00.000Z
+date: 2015-09-14T10:00:00.000Z
 file: 72-reactjs-flux-and-screencasting.mp3
 youtube: gOS0FzUCH1I
 layout: podcast

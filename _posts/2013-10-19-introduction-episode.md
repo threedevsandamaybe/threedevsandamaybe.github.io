@@ -1,7 +1,7 @@
 ---
 title: The Introduction Episode
 abstract: 'Who are the hosts, what is PHP, where to start.'
-date: 2013-10-19T15:00:00.000Z
+date: 2013-10-19T14:00:00.000Z
 file: 1-introduction-episode.mp3
 youtube: wWDPIciCiXc
 layout: podcast

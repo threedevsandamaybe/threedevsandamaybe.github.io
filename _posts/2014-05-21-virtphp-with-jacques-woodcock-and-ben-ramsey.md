@@ -1,7 +1,7 @@
 ---
 title: virtPHP with Jacques Woodcock and Ben Ramsey
 abstract: Discussion on virtPHP with two of the projects creators.
-date: 2014-05-21T21:00:00.000Z
+date: 2014-05-21T20:00:00.000Z
 file: 25-virtphp-with-jacques-woodcock-and-ben-ramsey.mp3
 youtube: h3BCkSXACMg
 layout: podcast

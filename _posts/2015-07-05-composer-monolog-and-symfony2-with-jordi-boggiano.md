@@ -1,7 +1,7 @@
 ---
 title: 'Composer, Monolog and Symfony2 with Jordi Boggiano'
 abstract: 'Discussion on Symfony2, development of Composer and much more...'
-date: 2015-07-05T11:35:00.000Z
+date: 2015-07-05T10:35:00.000Z
 file: 70-composer-monolog-and-symfony2-with-jordi-boggiano.mp3
 youtube: leHdV_NHv7M
 layout: podcast

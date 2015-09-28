@@ -1,7 +1,7 @@
 ---
 title: Introduction to Software Testing
 abstract: An overview of the different types of automated software testing available.
-date: 2014-06-18T21:00:00.000Z
+date: 2014-06-18T20:00:00.000Z
 file: 30-introduction-to-software-testing.mp3
 youtube: fpP6TB73dpM
 layout: podcast

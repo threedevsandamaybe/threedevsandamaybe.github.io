@@ -1,7 +1,7 @@
 ---
 title: EmberJS with Lamin Sanneh
 abstract: Discussion on EmberJS with special-guest Lamin Sanneh
-date: 2014-05-07T22:00:00.000Z
+date: 2014-05-07T21:00:00.000Z
 file: 23-emberjs-with-lamin-sanneh.mp3
 youtube: xt5_dw5KVYY
 layout: podcast

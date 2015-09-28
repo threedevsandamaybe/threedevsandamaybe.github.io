@@ -1,7 +1,7 @@
 ---
 title: 'Laravel, Forge and Homestead with Taylor Otwell'
 abstract: Discussion with Taylor Otwell on all things Laravel.
-date: 2014-07-09T14:00:00.000Z
+date: 2014-07-09T13:00:00.000Z
 file: 33-laravel-forge-and-homestead-with-taylor-otwell.mp3
 youtube: kRrnlWl1yyQ
 layout: podcast

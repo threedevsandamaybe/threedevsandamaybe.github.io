@@ -1,7 +1,7 @@
 ---
 title: The First All-Episode Quiz
 abstract: What could be better than an episode-long programming quiz?
-date: 2014-08-13T20:38:04.000Z
+date: 2014-08-13T19:38:04.000Z
 file: 38-the-first-all-episode-quiz.mp3
 youtube: OV-9eiVzqzI
 layout: podcast

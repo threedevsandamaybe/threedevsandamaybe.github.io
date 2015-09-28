@@ -1,7 +1,7 @@
 ---
 title: Easy Like Sunday Morning
 abstract: 'Discussion on Google Analytics, programming security and PHAR support'
-date: 2015-05-31T20:15:00.000Z
+date: 2015-05-31T19:15:00.000Z
 file: 66-easy-like-sunday-morning.mp3
 youtube: _PJJ1CvME98
 layout: podcast
