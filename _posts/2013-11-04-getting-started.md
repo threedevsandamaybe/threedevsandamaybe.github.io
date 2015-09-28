@@ -7,7 +7,7 @@ youtube: ttRddr-_2YE
 layout: podcast
 number: 2
 size: 28951842
-permalink: /posts/getting-started/
+redirect_from: /posts/getting-started/
 duration: 3056
 ---
 

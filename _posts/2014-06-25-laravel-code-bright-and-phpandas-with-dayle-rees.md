@@ -7,7 +7,7 @@ youtube: z7jBZq9ThfQ
 layout: podcast
 number: 31
 size: 45012724
-permalink: /posts/laravel-code-bright-and-phpandas-with-dayle-rees/
+redirect_from: /posts/laravel-code-bright-and-phpandas-with-dayle-rees/
 duration: 4519
 ---
 

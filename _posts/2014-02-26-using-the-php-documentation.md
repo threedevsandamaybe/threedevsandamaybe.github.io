@@ -7,7 +7,7 @@ youtube: N2e9nPRhNL4
 layout: podcast
 number: 13
 size: 35319843
-permalink: /posts/using-the-php-documentation/
+redirect_from: /posts/using-the-php-documentation/
 duration: 3930
 ---
 

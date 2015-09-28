@@ -7,7 +7,7 @@ youtube: B_3gf3YspAA
 layout: podcast
 number: 5
 size: 35258274
-permalink: /posts/exploring-text-source-editors-and-ides/
+redirect_from: /posts/exploring-text-source-editors-and-ides/
 duration: 4110
 ---
 

@@ -7,7 +7,7 @@ youtube: JA9YYeFq65E
 layout: podcast
 number: 8
 size: 33528613
-permalink: /posts/html-experiences-part-1/
+redirect_from: /posts/html-experiences-part-1/
 duration: 3738
 ---
 

@@ -7,7 +7,7 @@ youtube: fpP6TB73dpM
 layout: podcast
 number: 30
 size: 39259423
-permalink: /posts/introduction-to-software-testing/
+redirect_from: /posts/introduction-to-software-testing/
 duration: 3894
 ---
 

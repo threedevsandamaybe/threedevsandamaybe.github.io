@@ -7,7 +7,7 @@ youtube: nWv1rxJwlC8
 layout: podcast
 number: 28
 size: 35575379
-permalink: /posts/the-php-fig-rfc-codeigniter-3-and-pyrocms-with-phil-sturgeon/
+redirect_from: /posts/the-php-fig-rfc-codeigniter-3-and-pyrocms-with-phil-sturgeon/
 duration: 3732
 ---
 

@@ -7,7 +7,7 @@ youtube: dO638T85p5E
 layout: podcast
 number: 36
 size: 38607428
-permalink: /posts/the-first-qa-show-with-justin-delucia/
+redirect_from: /posts/the-first-qa-show-with-justin-delucia/
 duration: 3906
 ---
 

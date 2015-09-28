@@ -7,7 +7,7 @@ youtube: OV-9eiVzqzI
 layout: podcast
 number: 38
 size: 45653098
-permalink: /posts/the-first-all-episode-quiz/
+redirect_from: /posts/the-first-all-episode-quiz/
 duration: 4633
 ---
 

@@ -7,7 +7,7 @@ youtube: Fnw8kIigafM
 layout: podcast
 number: 12
 size: 36311069
-permalink: /posts/what-is-mvc/
+redirect_from: /posts/what-is-mvc/
 duration: 4049
 ---
 

@@ -7,7 +7,7 @@ youtube: _r2Zdk9WKFU
 layout: podcast
 number: 11
 size: 65710529
-permalink: /posts/css-straight-from-the-hart/
+redirect_from: /posts/css-straight-from-the-hart/
 duration: 4083
 ---
 

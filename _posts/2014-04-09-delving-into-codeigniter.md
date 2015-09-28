@@ -7,7 +7,7 @@ youtube: dm8PfwBTzlA
 layout: podcast
 number: 19
 size: 38810991
-permalink: /posts/delving-into-codeigniter/
+redirect_from: /posts/delving-into-codeigniter/
 duration: 4409
 ---
 

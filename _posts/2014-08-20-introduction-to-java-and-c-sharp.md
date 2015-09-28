@@ -7,7 +7,7 @@ youtube: 7wqUm1BccbY
 layout: podcast
 number: 39
 size: 45758549
-permalink: /posts/introduction-to-java-and-c-sharp/
+redirect_from: /posts/introduction-to-java-and-c-sharp/
 duration: 4567
 ---
 

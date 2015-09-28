@@ -7,7 +7,7 @@ youtube: 0uHp2gYrLZo
 layout: podcast
 number: 34
 size: 34634455
-permalink: /posts/delving-into-cakephp-with-james-watts/
+redirect_from: /posts/delving-into-cakephp-with-james-watts/
 duration: 3967
 ---
 

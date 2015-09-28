@@ -7,7 +7,7 @@ youtube: sp-7BYrEPks
 layout: podcast
 number: 14
 size: 44416593
-permalink: /posts/using-composer-and-the-command-line-cli/
+redirect_from: /posts/using-composer-and-the-command-line-cli/
 duration: 4852
 ---
 

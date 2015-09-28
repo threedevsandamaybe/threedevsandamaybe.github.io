@@ -7,7 +7,7 @@ youtube: FZnTosyMqLk
 layout: podcast
 number: 29
 size: 44339585
-permalink: /posts/introduction-to-gnu-linux-and-distributions-with-paul-bowden/
+redirect_from: /posts/introduction-to-gnu-linux-and-distributions-with-paul-bowden/
 duration: 4166
 ---
 

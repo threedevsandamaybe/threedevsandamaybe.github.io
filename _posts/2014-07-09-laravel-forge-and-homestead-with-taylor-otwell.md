@@ -7,7 +7,7 @@ youtube: kRrnlWl1yyQ
 layout: podcast
 number: 33
 size: 35726898
-permalink: /posts/laravel-forge-and-homestead-with-taylor-otwell/
+redirect_from: /posts/laravel-forge-and-homestead-with-taylor-otwell/
 duration: 3551
 ---
 

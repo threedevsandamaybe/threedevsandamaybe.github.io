@@ -7,7 +7,7 @@ youtube: 5smkrsG-vQY
 layout: podcast
 number: 26
 size: 52496877
-permalink: /posts/php-internals-pthreads-and-phpdbg-with-joe-watkins/
+redirect_from: /posts/php-internals-pthreads-and-phpdbg-with-joe-watkins/
 duration: 6400
 ---
 

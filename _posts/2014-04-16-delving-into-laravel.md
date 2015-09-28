@@ -7,7 +7,7 @@ youtube: WqYvTbTwDdE
 layout: podcast
 number: 20
 size: 40790160
-permalink: /posts/delving-into-laravel/
+redirect_from: /posts/delving-into-laravel/
 duration: 4487
 ---
 

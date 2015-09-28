@@ -7,7 +7,7 @@ youtube: RcNk93MS_zQ
 layout: podcast
 number: 9
 size: 34722421
-permalink: /posts/introduction-to-object-oriented-programming/
+redirect_from: /posts/introduction-to-object-oriented-programming/
 duration: 3873
 ---
 

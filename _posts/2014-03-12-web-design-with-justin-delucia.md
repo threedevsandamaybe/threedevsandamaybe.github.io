@@ -7,7 +7,7 @@ youtube: IEgejKwHG6g
 layout: podcast
 number: 15
 size: 54390935
-permalink: /posts/web-design-with-justin-delucia/
+redirect_from: /posts/web-design-with-justin-delucia/
 duration: 6014
 ---
 

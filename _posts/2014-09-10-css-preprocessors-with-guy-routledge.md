@@ -7,7 +7,7 @@ youtube: klgGGH4yi-M
 layout: podcast
 number: 42
 size: 42003857
-permalink: /posts/css-preprocessors-with-guy-routledge/
+redirect_from: /posts/css-preprocessors-with-guy-routledge/
 duration: 3906
 ---
 

@@ -7,7 +7,7 @@ youtube: mrrhnD1LrWk
 layout: podcast
 number: 32
 size: 39244660
-permalink: /posts/designing-for-the-web-with-kris-jeary/
+redirect_from: /posts/designing-for-the-web-with-kris-jeary/
 duration: 4280
 ---
 

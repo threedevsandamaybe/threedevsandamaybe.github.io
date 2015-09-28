@@ -7,7 +7,7 @@ youtube: Ho53vHnompI
 layout: podcast
 number: 16
 size: 48235827
-permalink: /posts/web-application-security-part-1/
+redirect_from: /posts/web-application-security-part-1/
 duration: 5331
 ---
 

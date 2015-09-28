@@ -7,7 +7,7 @@ youtube: oKw-Hm_Fsm8
 layout: podcast
 number: 24
 size: 47141822
-permalink: /posts/understanding-character-sets-and-encodings/
+redirect_from: /posts/understanding-character-sets-and-encodings/
 duration: 5269
 ---
 

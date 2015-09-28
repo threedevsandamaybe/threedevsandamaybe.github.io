@@ -7,7 +7,7 @@ youtube: wWDPIciCiXc
 layout: podcast
 number: 1
 size: 37880738
-permalink: /posts/introduction-episode/
+redirect_from: /posts/introduction-episode/
 duration: 4588
 ---
 

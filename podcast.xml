@@ -31,12 +31,12 @@ layout: null
         {% for post in site.posts %}{% if post.layout == 'podcast' %}
         <item>
             <title>{{ post.number }}: {{ post.title | xml_escape }}</title>
-            <link>{{ site.url }}{{ post.url }}</link>
+            <link>{{ site.url }}{% if post.redirect_from %}{{ post.redirect_from }}{% else %}{{ post.url }}{% endif %}</link>
             <description>{{'<![CDATA['}}{{ post.content | split: '<h3' | first | strip_html }}{{']]>'}}</description>
             <itunes:author>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</itunes:author>
             <itunes:summary>{{'<![CDATA['}}{{ post.content | split: '<h3' | first | strip_html }}{{']]>'}}</itunes:summary>
             <itunes:duration>{{ post.duration }}</itunes:duration>
-            <guid>{{ site.url }}{{ post.url }}</guid>
+            <guid>{{ site.url }}{% if post.redirect_from %}{{ post.redirect_from }}{% else %}{{ post.url }}{% endif %}</guid>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <content:encoded>{{'<![CDATA['}}{{ post.content }}{{']]>'}}</content:encoded>
             <enclosure url="{{ site.podcasts }}/{{ post.file }}" length="{{ post.size }}" type="audio/mpeg" />

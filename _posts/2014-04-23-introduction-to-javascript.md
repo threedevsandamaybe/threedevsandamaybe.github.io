@@ -7,7 +7,7 @@ youtube: G0lE7VBZrP0
 layout: podcast
 number: 21
 size: 39022573
-permalink: /posts/introduction-to-javascript/
+redirect_from: /posts/introduction-to-javascript/
 duration: 4380
 ---
 

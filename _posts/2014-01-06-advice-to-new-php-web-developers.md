@@ -7,7 +7,7 @@ youtube: 8wvWNU-36l8
 layout: podcast
 number: 6
 size: 32521864
-permalink: /posts/advice-to-new-php-web-developers/
+redirect_from: /posts/advice-to-new-php-web-developers/
 duration: 3793
 ---
 

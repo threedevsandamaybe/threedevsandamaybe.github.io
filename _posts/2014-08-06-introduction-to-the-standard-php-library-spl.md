@@ -7,7 +7,7 @@ youtube: DdylTVtBUsg
 layout: podcast
 number: 37
 size: 37676821
-permalink: /posts/introduction-to-the-standard-php-library-spl/
+redirect_from: /posts/introduction-to-the-standard-php-library-spl/
 duration: 4045
 ---
 

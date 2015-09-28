@@ -7,7 +7,7 @@ youtube: 5iDnQAucklI
 layout: podcast
 number: 4
 size: 37034049
-permalink: /posts/web-hosting-and-domains-part-2/
+redirect_from: /posts/web-hosting-and-domains-part-2/
 duration: 3955
 ---
 

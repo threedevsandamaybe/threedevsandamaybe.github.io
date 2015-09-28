@@ -7,7 +7,7 @@ youtube: xt5_dw5KVYY
 layout: podcast
 number: 23
 size: 44154733
-permalink: /posts/emberjs-with-lamin-sanneh/
+redirect_from: /posts/emberjs-with-lamin-sanneh/
 duration: 4962
 ---
 

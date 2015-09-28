@@ -7,7 +7,7 @@ youtube: h3BCkSXACMg
 layout: podcast
 number: 25
 size: 51252139
-permalink: /posts/virtphp-with-jacques-woodcock-and-ben-ramsey/
+redirect_from: /posts/virtphp-with-jacques-woodcock-and-ben-ramsey/
 duration: 5595
 ---
 
