@@ -1,5 +1,4 @@
-permalink:           /:title/
-relative_permalinks: true
+permalink: /:title/
 
 paginate:          10
 paginate_path:     "/podcasts/:num/"
