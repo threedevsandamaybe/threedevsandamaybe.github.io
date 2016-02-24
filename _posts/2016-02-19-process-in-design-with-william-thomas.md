@@ -23,6 +23,7 @@ Finally, we chat about the relationship between a designer and developer, resour
 - [Will Thomas - Blog](http://williamthomas.io/)
 - [Will Thomas on Twitter](https://twitter.com/juptrking)
 - [The Games Factory 2](http://www.clickteam.com/the-games-factory-2)
+- [Screenshots of 'Grunge' Mario Clone (Amnesia)](https://www.dropbox.com/sh/kd1i3j9er57vwfv/AACSf-cLgCMtrgQevw_1xRzia?dl=0)
 - [Impact - HTML5 Canvas & JavaScript Game Engine](http://impactjs.com/)
 - [How a Web Design Goes Straight to Hell - The Oatmeal](http://theoatmeal.com/comics/design_hell)
 - [Designer used as a Pencil Comic](http://digitalsynopsis.com/wp-content/uploads/2015/01/how-a-web-design-goes-straight-to-hell-9.jpg)
