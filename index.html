@@ -23,13 +23,13 @@ title: Home
             <p>{{ post.abstract }}</p>
             <div class="clr"></div>
             {% if post.file %}
-                <audio class="audio-player" src="{{ site.podcasts }}/{{ post.file }}" controls preload="none"></audio>
+                <audio class="audio-player" src="{{ site.podtrac }}/{{ post.file }}" controls preload="none"></audio>
             {% endif %}
         </div>
         <div class="release">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
             {% if post.file %}
-                <div class="download"><a href="{{ site.podcasts }}/{{ post.file }}">Download</a></div>
+                <div class="download"><a href="{{ site.podtrac }}/{{ post.file }}">Download</a></div>
             {% endif %}
         </div>
         <div class="clr"></div>

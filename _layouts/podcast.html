@@ -8,7 +8,7 @@ layout: default
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
         {% if page.file %}
             <audio class="audio-player" style="float:left;" src="{{ site.podcasts }}/{{ page.file }}" controls preload="none"></audio>
-            <div class="download"><a href="{{ site.podcasts }}/{{ page.file }}">Download</a></div>
+            <div class="download"><a href="{{ site.podtrac }}/{{ page.file }}">Download</a></div>
         {% endif %}
     </div>
     <div class="clr"></div>
