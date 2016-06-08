@@ -39,7 +39,7 @@ layout: null
             <guid>{{ site.url }}{% if post.redirect_from %}{{ post.redirect_from }}{% else %}{{ post.url }}{% endif %}</guid>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <content:encoded>{{'<![CDATA['}}{{ post.content }}{{']]>'}}</content:encoded>
-            <enclosure url="{{ site.podtrac }}/{{ post.file }}" length="{{ post.size }}" type="audio/mpeg" />
+            <enclosure url="{{ site.podtrac }}/{{ post.file | uri_escape }}" length="{{ post.size }}" type="audio/mpeg" />
             <itunes:image href="{{ site.url }}/images/cover-art.jpg" />
         </item>
         {% endif %}{% endfor %}
