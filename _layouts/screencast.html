@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<article>
-    <h2>{{ page.title }}</h2>
-    <div class="details">
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+<article class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    <div class="post-side">
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">📺 {{ page.date | date_to_string }}</time>
+        <div class="cf"></div>
     </div>
-    <div class="clr"></div>
+
     {{ content }}
 </article>
 

@@ -8,11 +8,11 @@ layout: screencast
 In this screencast episode Edd n' Joe discuss designing language constructs for the PHP 7 core.
 Following you through firstly a simple 'hipster' example, this will give you a good basis to understand the places (Lexer, Parser and Compiler) that will need to be modified to create features that you typically see in RFC proposals.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/_arORgEVl-M" frameborder="0" allowfullscreen></iframe>
+<div data-type="youtube" data-video-id="_arORgEVl-M"></div>
 
 Now that we have explored all the areas required to implement a new feature, we will now look into some more contrived examples which help expand upon this understanding.
 
-<iframe width="640" height="360" style="margin-bottom:25px" src="https://www.youtube.com/embed/f9N-v-JUbTQ" frameborder="0" allowfullscreen></iframe>
+<div data-type="youtube" data-video-id="f9N-v-JUbTQ"></div>
 
 ### Source-code
 

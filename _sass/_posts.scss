@@ -1,0 +1,64 @@
+// Posts and pages
+//
+// Each post is wrapped in `.post` and is used on default and post layouts. Each
+// page is wrapped in `.page` and is only used on the page layout.
+
+.page, .post {
+  margin-bottom: 2em;
+}
+
+// Blog post or page title
+.page-title,
+.post-title,
+.post-title a {
+  color: #303030;
+}
+.page-title,
+.post-title {
+  margin-top: 0;
+}
+
+// Meta data line below post title
+.post-date {
+  margin-top: 0rem;
+  float: right;
+  color: #9a9a9a;
+}
+
+.posts .post {
+  padding-bottom: 2rem;
+  border-bottom: 1px dotted #CCC;
+
+  &:last-child {
+  	padding-bottom: 0;
+  	border-bottom: none;
+  }
+}
+
+.plyr--audio {
+  float: left;
+  .plyr__controls {
+    padding: 1px 10px 1px 1px !important;
+  }
+}
+
+.plyr--video {
+  margin-bottom: 1rem;
+}
+
+.post-side {
+  margin: 1rem 0;
+}
+
+@media (max-width: 700px) {
+  .plyr--audio {
+    float: none;
+    display: block;
+  }
+
+  .post-date {
+    float: none;
+    margin-top: 1rem;
+    display: block;
+  }
+}

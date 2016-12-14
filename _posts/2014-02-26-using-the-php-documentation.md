@@ -19,9 +19,9 @@ Finally, we touch on some accompanying third-party documentation tools we use on
 
 - [Learn PHP Programming - Codecademy](http://www.codecademy.com/tracks/php)
 - [Twitto: A web framework in a tweet](http://twitto.org/)
-- [Take the Linux Filesystem Tour | TuxRadar Linux](http://tuxradar.com/content/take-linux-filesystem-tour/)
+- [Take the Linux Filesystem Tour - TuxRadar Linux](http://tuxradar.com/content/take-linux-filesystem-tour/)
 - [coderwall.com : establishing geek cred since 1305712800](https://coderwall.com/welcome)
-- [Web Design Jobs in Kent | Web Development Jobs in Kent](http://webdesignjobsinkent.co.uk/)
+- [Web Design Jobs in Kent - Web Development Jobs in Kent](http://webdesignjobsinkent.co.uk/)
 - [.NET Rocks!](http://dotnetrocks.com/)
 - [The Basics Of Creating A Magento Module - Smashing Coding](http://coding.smashingmagazine.com/2012/03/01/basics-creating-magento-module/)
 - [Python with Braces](http://www.pythonb.org/)
