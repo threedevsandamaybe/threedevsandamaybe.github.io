@@ -2,16 +2,15 @@
 layout: default
 ---
 
-<article>
-    <h2>{{ page.title }}</h2>
-    <div class="details">
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-        {% if page.file %}
-            <audio class="audio-player" style="float:left;" src="{{ site.podtrac }}/{{ page.file }}" controls preload="none"></audio>
-            <div class="download"><a href="{{ site.podtrac }}/{{ page.file }}">Download</a></div>
-        {% endif %}
+<article class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    <div class="post-side">
+        <audio src="{{ site.podtrac }}/{{ post.file }}" controls preload="none"></audio>
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">🎙 {{ page.date | date_to_string }}</time>
+        <div class="cf"></div>
     </div>
-    <div class="clr"></div>
+
     {{ content }}
 </article>
 

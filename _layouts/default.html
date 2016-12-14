@@ -2,14 +2,42 @@
 <html lang="en">
     {% include head.html %}
     <body>
-        <div id="container">
-            <section id="side">
-                {% include sidebar.html %}
-            </section>
-            <section id="main">
+        <div class="container content">
+            <header class="masthead">
+                <a href="/" class="masthead-logo">
+                    <img src="http://www.gravatar.com/avatar/c472b480544a389f96e0bcc410ba1a89?s=280" />
+                </a>
+                <div class="masthead-side">
+                    <a href="/"><h2>Three Devs and a Maybe</h2></a>
+                    <p>
+                        <i class="fa fa-code" aria-hidden="true"></i>
+                        Weekly discussion podcast on all things web development.
+                    </p>
+                    <ul class="links">
+                        <li><a href="https://twitter.com/3DevsAndAMaybe"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+                        <li><a href="/podcast.xml"><i class="fa fa-rss" aria-hidden="true"></i> Feed</a></li>
+                        <li><a href="//itunes.apple.com/gb/podcast/three-devs-maybe-introduction/id729464185"><i class="fa fa-music" aria-hidden="true"></i> iTunes</a></li>
+                        <li><a href="/archive"><i class="fa fa-archive" aria-hidden="true"></i> Archive</a></li>
+                    </ul>
+                </div>
+                <div class="cf"></div>
+            </header>
+
+            <main>
                 {{ content }}
-            </section>
-            <div class="clr"></div>
+            </main>
+
+            <footer class="footer">
+                Hosted by:
+                <ul>
+                    <li><a href="https://twitter.com/michaelbud6"><img src="http://www.gravatar.com/avatar/353a428ed640653b1418801db62bb2b2?s=160"></a></li>
+                    <li><a href="https://twitter.com/FraserHartDev"><img src="http://www.gravatar.com/avatar/685cdd9ddf760a985edf64631479f7c1?s=160"></a></li>
+                    <li><a href="https://twitter.com/LCainsWebDev"><img src="http://www.gravatar.com/avatar/e6d8de6db237d4eebfb744c47ba81698?s=160"></a></li>
+                    <li><a href="https://twitter.com/edd_mann"><img src="http://www.gravatar.com/avatar/c5c2978bb14d16460f73399c394b6acd?s=160"></a></li>
+                </ul>
+            </footer>
         </div>
+        <script src="https://cdn.plyr.io/2.0.11/plyr.js"></script>
+        <script>plyr.setup();</script>
     </body>
 </html>

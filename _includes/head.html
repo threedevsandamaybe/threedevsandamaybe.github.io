@@ -1,17 +1,18 @@
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="description" content="Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{% if page.abstract %}{{ page.abstract }}{% else %}Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.{% endif %}">
 
     <title>{% if page.title == "Home" %}Three Devs and a Maybe: Discussion on Web Development{% else %}{{ page.title }} - Three Devs and a Maybe{% endif %}</title>
 
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.plyr.io/2.0.11/plyr.css">
     <link rel="stylesheet" href="/styles.css">
-    <link rel="alternate" href="/podcast.xml" title="Three Devs and a Maybe: Podcast Feed" type="application/rss+xml" />
+
     <link rel="shortcut icon" href="/favicon.ico">
-    <!--[if lt IE 9]>
-        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+
+    <link rel="alternate" href="/podcast.xml" title="Three Devs and a Maybe: Podcast Feed" type="application/rss+xml" />
 
     <script>
         var _gaq=[['_setAccount','UA-32512081-2'],['_trackPageview']];
