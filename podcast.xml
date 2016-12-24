@@ -13,10 +13,10 @@ layout: null
         <link>{{ site.url }}/</link>
         <language>en-GB</language>
         <copyright>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</copyright>
-        <itunes:subtitle>Discussion on Web Development</itunes:subtitle>
+        <itunes:subtitle>Weekly(ish) podcast on all things software development</itunes:subtitle>
         <itunes:author>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</itunes:author>
-        <itunes:summary>Join us each week as we discuss all things web development. Frequently joined by a far more intelligent guest on the show's topic, we by no means know everything, but love what we do. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.</itunes:summary>
-        <description>Join us each week as we discuss all things web development. Frequently joined by a far more intelligent guest on the show's topic, we by no means know everything, but love what we do. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.</description>
+        <itunes:summary>Join us each week as we discuss all things software development. Frequently joined by a far more intelligent guest on the show's topic, we by no means know everything, but love what we do. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.</itunes:summary>
+        <description>Join us each week as we discuss all things software development. Frequently joined by a far more intelligent guest on the show's topic, we by no means know everything, but love what we do. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.</description>
         <itunes:owner>
             <itunes:name>Michael Budd, Fraser Hart, Lewis Cains, Edd Mann</itunes:name>
             <itunes:email>michaelbudd6@gmail.com</itunes:email>
