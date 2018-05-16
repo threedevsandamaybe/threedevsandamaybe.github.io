@@ -1,0 +1,53 @@
+https://keybase.io/eddmann
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://threedevsandamaybe.com
+  * I am eddmann (https://keybase.io/eddmann) on keybase.
+  * I have a public key ASCtR4CJdl_FFsytpfmf0RRuxlyRrgP8lXazqBwXWkuQfAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120098217aeab2b35dd2ccb4289b5787a9e6aab7783ff6ca6ad6d7f1e1830a4c36b0a",
+      "host": "keybase.io",
+      "kid": "0120ad478089765fc516ccada5f99fd1146ec65c91ae03fc9576b3a81c175a4b907c0a",
+      "uid": "727e72d37d4bb84b702cecca094b5b19",
+      "username": "eddmann"
+    },
+    "merkle_root": {
+      "ctime": 1526455912,
+      "hash": "45edd8d87c3d6b4537ec7c4ac4d34b27c20166e3cc2b952a7f7b8ea59c1d4f92fa31befbf33289687b946ecb306f8ccd22bb68abfe67a266a3d90fa28be82bf2",
+      "hash_meta": "1074455482229b2789720f365a4711df5cc145226564c8ff3f0fba433fdc8cad",
+      "seqno": 2749996
+    },
+    "service": {
+      "entropy": "HYqWO4DQ1Iq+UaGmoNDkOQII",
+      "hostname": "threedevsandamaybe.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1526455925,
+  "expire_in": 504576000,
+  "prev": "7783e563628ef8ed1b3259715d20fc8aa8872f1ee76ff91a895e6f682f1d725e",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrUeAiXZfxRbMraX5n9EUbsZcka4D/JV2s6gcF1pLkHwKp3BheWxvYWTESpcCH8Qgd4PlY2KO+O0bMllxXSD8iqiHLx7nb/kaiV5vaC8dcl7EINzmOrwqcoa2Ph0tEGOdKOp/sr9xe0O6DlyHeR4zvLMzAgHCo3NpZ8RAv99Lm/1YkzYNXJe8V+QDX81W0eCQdtQDZrO1xWLfBuMZdlO66YR1eLmhN9B1xuGNGT1jsOHhwKfHRV1wyqAqC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFIj19hjyWBP2Vwiq8Rgi8+mxeJ3ZkiU1/9LgY9Od1Rdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eddmann
