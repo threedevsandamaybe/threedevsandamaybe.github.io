@@ -4,8 +4,8 @@ paginate:          10
 paginate_path:     "/podcasts/:num/"
 excerpt_separator: "<!--more-->"
 url:               "http://threedevsandamaybe.com"
-podcasts:          "http://podcasts.threedevsandamaybe.com"
-podtrac:           "http://www.podtrac.com/pts/redirect.mp3/podcasts.threedevsandamaybe.com"
+podcasts:          "https://podcasts.threedevsandamaybe.com"
+podtrac:           "https://www.podtrac.com/pts/redirect.mp3/podcasts.threedevsandamaybe.com"
 timezone:          "Europe/London"
 
 sass:
