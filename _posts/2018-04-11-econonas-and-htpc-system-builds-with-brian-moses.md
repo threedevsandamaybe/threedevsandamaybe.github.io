@@ -7,6 +7,8 @@ layout: podcast
 number: 146
 size: 33512392
 duration: 3788
+hosts: [Edd Mann]
+guests: [Brian Moses]
 ---
 
 In this weeks episode we are joined again by Brian Moses to discuss several of his recent system builds.

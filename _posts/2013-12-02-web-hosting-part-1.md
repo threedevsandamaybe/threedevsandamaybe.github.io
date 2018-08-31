@@ -3,12 +3,13 @@ title: Web Hosting - Part 1
 abstract: 1st part of our section on web hosting.
 date: 2013-12-02T21:00:00.000Z
 file: 3-web-hosting-part-1.mp3
-youtube: wwevEWGLCG8
 layout: podcast
 number: 3
 size: 33282271
 redirect_from: /posts/web-hosting-part-1/
 duration: 3551
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 1st part of our section on web hosting.

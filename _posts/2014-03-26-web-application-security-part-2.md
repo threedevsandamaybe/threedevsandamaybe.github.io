@@ -3,12 +3,13 @@ title: Web Application Security - Part 2
 abstract: Continuation of our introduction to web application security.
 date: 2014-03-26T21:00:00.000Z
 file: 17-web-application-security-part-2.mp3
-youtube: 9uCn2p_Y7kg
 layout: podcast
 number: 17
 size: 43784782
 redirect_from: /posts/web-application-security-part-2/
 duration: 4944
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This week we wrap-up the top ten security risks compiled by OWASP, with discussion on topics including CSRF (Cross Site Request Forgery) and Known Component Vulnerabilities.

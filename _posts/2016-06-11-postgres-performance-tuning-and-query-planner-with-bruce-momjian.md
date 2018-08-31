@@ -7,6 +7,8 @@ layout: podcast
 number: 102
 size: 30925023
 duration: 3288
+hosts: [Edd Mann]
+guests: [Bruce Momjian]
 ---
 
 In this weeks episode we are very lucky to be joined by Bruce Momjian to discuss Postgres Performance Tuning and Query Planner.

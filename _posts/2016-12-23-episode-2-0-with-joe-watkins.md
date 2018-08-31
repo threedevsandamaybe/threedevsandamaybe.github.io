@@ -7,6 +7,8 @@ layout: podcast
 number: 114
 size: 17576414
 duration: 1925
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this weeks episode we are joined by good friend of the show Joe Watkins.

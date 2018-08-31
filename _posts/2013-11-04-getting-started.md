@@ -3,12 +3,13 @@ title: Getting Started
 abstract: 'Setting up a local environment, basic PHP functionality.'
 date: 2013-11-04T21:00:00.000Z
 file: 2-getting-started.mp3
-youtube: ttRddr-_2YE
 layout: podcast
 number: 2
 size: 28951842
 redirect_from: /posts/getting-started/
 duration: 3056
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This episode explores getting started, including, creating a local environment, and explores some very basic programming logic, in particular PHP logic.

@@ -7,6 +7,8 @@ layout: podcast
 number: 123
 size: 35527895
 duration: 3614
+hosts: [Edd Mann]
+guests: [Scott Wlaschin]
 ---
 
 In this weeks episode we are lucky to be joined by Scott Wlaschin again, to discuss his recent 'Thirteen ways of looking at a turtle' talk.

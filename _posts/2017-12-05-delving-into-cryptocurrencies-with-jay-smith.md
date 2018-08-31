@@ -7,6 +7,8 @@ layout: podcast
 number: 136
 size: 35390809
 duration: 4251
+hosts: [Edd Mann]
+guests: [Jay Smith]
 ---
 
 In this episode we are lucky to have cryptocurrency proponent and trader Jay Smith on the show.

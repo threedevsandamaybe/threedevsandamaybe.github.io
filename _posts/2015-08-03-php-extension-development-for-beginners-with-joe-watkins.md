@@ -3,6 +3,8 @@ title: PHP Extension Development for Beginners with Joe Watkins
 abstract: Screencast guiding you through developing a simple PHP extension and environment.
 date: 2015-08-03T11:30:00.000Z
 layout: screencast
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In our very first screencast episode, we were very lucky to chat with PHP core developer Joe Watkins, discussing PHP 5 and 7 Extension Development for Beginners.

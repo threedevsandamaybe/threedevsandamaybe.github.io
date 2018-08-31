@@ -3,11 +3,12 @@ title: PHP 7 Extension Development with Joe Watkins
 abstract: 'Discussion on design decisions behind pthreads v3, extension development and much more...'
 date: 2015-09-17T08:25:00.000Z
 file: 73-php-7-extension-development-with-joe-watkins.mp3
-youtube: vLD4cUHMT5I
 layout: podcast
 number: 73
 size: 29892481
 duration: 3354
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this episode we are lucky to be joined by good friend of the show Joe Watkins.

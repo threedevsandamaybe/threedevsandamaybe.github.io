@@ -7,6 +7,8 @@ layout: podcast
 number: 129
 size: 25185619
 duration: 2853
+hosts: [Edd Mann]
+guests: [Liam McLennan]
 ---
 
 In this weeks episode we are lucky to have Liam McLennan on the show.

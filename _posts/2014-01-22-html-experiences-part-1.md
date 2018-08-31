@@ -3,12 +3,13 @@ title: HTML Experiences - Part 1
 abstract: First part on our experiences with using HTML and different browser support.
 date: 2014-01-22T21:00:00.000Z
 file: 8-html-experiences-part-1.mp3
-youtube: JA9YYeFq65E
 layout: podcast
 number: 8
 size: 33528613
 redirect_from: /posts/html-experiences-part-1/
 duration: 3738
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This week we decided to do an episode on good ol' HTML.

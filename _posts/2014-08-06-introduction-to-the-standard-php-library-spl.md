@@ -3,12 +3,13 @@ title: Introduction to the Standard PHP Library (SPL)
 abstract: 'An introduction to the Standard PHP Library, used to solve common problems.'
 date: 2014-08-06T19:15:28.000Z
 file: 37-introduction-to-the-standard-php-library-spl.mp3
-youtube: DdylTVtBUsg
 layout: podcast
 number: 37
 size: 37676821
 redirect_from: /posts/introduction-to-the-standard-php-library-spl/
 duration: 4045
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 In this weeks show we are discussing all things SPL (Standard PHP Library), used to solve commonly found problems in an OO-PHP manner.

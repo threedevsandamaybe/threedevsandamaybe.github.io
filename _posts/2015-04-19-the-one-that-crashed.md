@@ -3,11 +3,12 @@ title: 'The One That Crashed!'
 abstract: "Discussion on Varnish, ESI's, React, AES and New Relic"
 date: 2015-04-19T18:00:00.000Z
 file: 62-the-one-that-crashed.mp3
-youtube: OOQOomJ0mWA
 layout: podcast
 number: 62
 size: 27764373
 duration: 2956
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 Hey folks! Sod's law but just as we were getting into our stride recording this week the technology failed us! Thankfully we managed to ramble a sufficient amount before this happened.

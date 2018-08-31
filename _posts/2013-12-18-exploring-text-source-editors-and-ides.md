@@ -3,12 +3,13 @@ title: Exploring Text/Source Editors and IDEs
 abstract: A look into the different types of available editors and their feature sets.
 date: 2013-12-18T22:30:00.000Z
 file: 5-exploring-text-source-editors-and-ides.mp3
-youtube: B_3gf3YspAA
 layout: podcast
 number: 5
 size: 35258274
 redirect_from: /posts/exploring-text-source-editors-and-ides/
 duration: 4110
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 In the podcast this week we discuss the important topic of text editors.

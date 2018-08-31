@@ -3,12 +3,13 @@ title: Web Application Security - Part 1
 abstract: Discussion on the top five web application security risks.
 date: 2014-03-19T21:30:00.000Z
 file: 16-web-application-security-part-1.mp3
-youtube: Ho53vHnompI
 layout: podcast
 number: 16
 size: 48235827
 redirect_from: /posts/web-application-security-part-1/
 duration: 5331
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 With another two man crew this week we decided to make a start our discussion on all things Web Security.

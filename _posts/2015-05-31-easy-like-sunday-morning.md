@@ -3,17 +3,18 @@ title: Easy Like Sunday Morning
 abstract: 'Discussion on Google Analytics, programming security and PHAR support'
 date: 2015-05-31T19:15:00.000Z
 file: 66-easy-like-sunday-morning.mp3
-youtube: _PJJ1CvME98
 layout: podcast
 number: 66
 size: 35760528
 duration: 3577
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 This week on a early Sunday morning recording, we start off podcast discussion with A/B testing and Google Analytics/Experiments.
 We then move on to touch upon distributing PHP console applications within PHAR's, application security and Google's recent IO conference.
 Following this we bring up a couple of small projects Edd is currently working on, relating to Morse Code and Colour detection algorithms.
-Finally, we wrap up the show by discussing the current Space Beer Cave competition that is still underway, and how one contestant is running away with the prize at this time. 
+Finally, we wrap up the show by discussing the current Space Beer Cave competition that is still underway, and how one contestant is running away with the prize at this time.
 
 ### Show Links
 

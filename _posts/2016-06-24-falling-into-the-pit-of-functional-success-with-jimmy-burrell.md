@@ -7,6 +7,8 @@ layout: podcast
 number: 104
 size: 49371987
 duration: 4610
+hosts: [Edd Mann]
+guests: [Jimmy Burrell]
 ---
 
 In this weeks episode we are lucky to be joined by Jimmy Burrell for a long over-due 'geek out'.

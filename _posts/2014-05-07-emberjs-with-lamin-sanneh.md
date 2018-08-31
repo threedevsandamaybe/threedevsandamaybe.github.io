@@ -3,12 +3,13 @@ title: EmberJS with Lamin Sanneh
 abstract: Discussion on EmberJS with special-guest Lamin Sanneh
 date: 2014-05-07T21:00:00.000Z
 file: 23-emberjs-with-lamin-sanneh.mp3
-youtube: xt5_dw5KVYY
 layout: podcast
 number: 23
 size: 44154733
 redirect_from: /posts/emberjs-with-lamin-sanneh/
 duration: 4962
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: [Lamin Sanneh]
 ---
 
 This episode we are lucky to have special-guest Lamin Sanneh on the show to discuss all things EmberJS.

@@ -3,12 +3,13 @@ title: Introduction to Object-oriented programming
 abstract: An introduction to the very popular Object-oriented programming paradigm.
 date: 2014-01-29T23:30:00.000Z
 file: 9-introduction-to-object-oriented-programming.mp3
-youtube: RcNk93MS_zQ
 layout: podcast
 number: 9
 size: 34722421
 redirect_from: /posts/introduction-to-object-oriented-programming/
 duration: 3873
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 Sadly we are one host down this week with Lewis hard are work, so we decided to postpone part two of the HTML discussion till next week.

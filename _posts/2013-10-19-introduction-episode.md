@@ -3,12 +3,13 @@ title: The Introduction Episode
 abstract: 'Who are the hosts, what is PHP, where to start.'
 date: 2013-10-19T14:00:00.000Z
 file: 1-introduction-episode.mp3
-youtube: wWDPIciCiXc
 layout: podcast
 number: 1
 size: 37880738
 redirect_from: /posts/introduction-episode/
 duration: 4588
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This episode introduces listeners to the people hosting the podcast.

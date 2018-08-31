@@ -3,11 +3,12 @@ title: 'Podcasting, Remote Working and Testing with Adam Wathan'
 abstract: 'Also known as, the hope you get the new towel rail episode...'
 date: 2015-06-16T11:50:00.000Z
 file: 68-podcasting-remote-working-and-testing-with-adam-wathan.mp3
-youtube: LFj56Nv0KTE
 layout: podcast
 number: 68
 size: 42323201
 duration: 4258
+hosts: [Edd Mann, Lewis Cains]
+guests: [Adam Wathan]
 ---
 
 This week we are very lucky to be joined by fellow podcaster and host of Full Stack Radio - Adam Wathan.

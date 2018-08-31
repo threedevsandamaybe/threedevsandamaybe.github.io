@@ -7,6 +7,8 @@ layout: podcast
 number: 124
 size: 21296005
 duration: 2174
+hosts: [Edd Mann]
+guests: [Scott Wlaschin]
 ---
 
 In this weeks show we follow on from our previous episode's discussion with Scott Wlaschin.

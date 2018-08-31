@@ -3,11 +3,12 @@ title: Working Remote
 abstract: Discussion and experiences on working as a remote developer with Joe Watkins
 date: 2015-05-08T11:00:00.000Z
 file: 63-working-remote.mp3
-youtube: niGH1XPMlEo
 layout: podcast
 number: 63
 size: 32228796
 duration: 3370
+hosts: [Edd Mann, Michael Budd]
+guests: [Joe Watkins]
 ---
 
 Originally recorded early February but only now being released (blame Edd), we are lucky to have Joe Watkins on the show again.

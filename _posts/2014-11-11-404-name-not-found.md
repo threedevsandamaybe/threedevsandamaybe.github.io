@@ -3,11 +3,12 @@ title: 404 Name Not Found
 abstract: 'Ramblings on Semantic Versioning, Swift, Promises and Grid Systems'
 date: 2014-11-11T13:30:00.000Z
 file: 49-404-name-not-found.mp3
-youtube: I08TFJJCtSQ
 layout: podcast
 number: 49
 size: 43614878
 duration: 4258
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 This week we have yet another episode with the full podcast crew.

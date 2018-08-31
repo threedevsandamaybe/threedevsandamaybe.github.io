@@ -7,6 +7,8 @@ layout: podcast
 number: 89
 size: 45073036
 duration: 4537
+hosts: [Edd Mann]
+guests: [William Thomas]
 ---
 
 In this week's episode we are very lucky to be joined by William Thomas, designer and colleague of Edd's at MyBuilder.

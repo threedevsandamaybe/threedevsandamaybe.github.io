@@ -7,6 +7,8 @@ layout: podcast
 number: 116
 size: 48314022
 duration: 4689
+hosts: [Edd Mann]
+guests: [Jimmy Burrell, Scott Wlaschin]
 ---
 
 In this weeks episode we are joined by Jimmy Burrell and Scott Wlaschin to discuss all things functional.

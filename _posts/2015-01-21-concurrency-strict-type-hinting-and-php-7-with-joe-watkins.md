@@ -3,11 +3,12 @@ title: 'Concurrency, Strict type-hinting and PHP 7 with Joe Watkins'
 abstract: 'Catchup discussion with Joe on Concurrency, Strict type-hinting and PHP 7'
 date: 2015-01-21T19:45:00.000Z
 file: 55-concurrency-strict-type-hinting-and-php-7-with-joe-watkins.mp3
-youtube: LmLLD1P_84Q
 layout: podcast
 number: 55
 size: 39530156
 duration: 3939
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 This week we are lucky to be joined by Joe Watkins, for a general catch-up on a host of PHP-related topics.

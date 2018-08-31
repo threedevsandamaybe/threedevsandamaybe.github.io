@@ -7,6 +7,8 @@ layout: podcast
 number: 150
 size: 24306038
 duration: 2678
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this weeks episode we catch-up with Joe Watkins.

@@ -7,6 +7,8 @@ layout: podcast
 number: 115
 size: 31508515
 duration: 3112
+hosts: [Edd Mann, Lewis Cains]
+guests: []
 ---
 
 In this weeks episode we have a long overdue catch-up with Lew.

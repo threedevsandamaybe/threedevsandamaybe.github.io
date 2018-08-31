@@ -7,6 +7,8 @@ layout: podcast
 number: 74
 size: 32731151
 duration: 3956
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 On this weeks episode we are lucky to finally be in the same room recording the podcast in person, apologies for the low volume.

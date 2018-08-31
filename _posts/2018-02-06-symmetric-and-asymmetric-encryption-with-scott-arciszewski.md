@@ -7,6 +7,8 @@ layout: podcast
 number: 143
 size: 32755218
 duration: 3791
+hosts: [Edd Mann]
+guests: [Scott Arciszewski]
 ---
 
 In this weeks episode we are lucky to be joined again by Scott Arciszewski.

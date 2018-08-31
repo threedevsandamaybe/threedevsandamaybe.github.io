@@ -7,6 +7,8 @@ layout: podcast
 number: 144
 size: 22535614
 duration: 2837
+hosts: [Edd Mann]
+guests: [Thijs Feryn]
 ---
 
 In this weeks episode we are joined by Thijs Feryn to discuss his upcoming PHP UK conference talk.

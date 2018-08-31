@@ -7,6 +7,8 @@ layout: podcast
 number: 149
 size: 38605873
 duration: 3802
+hosts: [Edd Mann]
+guests: [Scott Wlaschin]
 ---
 
 In this weeks episode we are lucky to have Scott Wlaschin back on the show to discuss design within software.

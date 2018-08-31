@@ -7,6 +7,8 @@ layout: podcast
 number: 125
 size: 25823520
 duration: 2593
+hosts: [Edd Mann]
+guests: [Brian Moses]
 ---
 
 In this weeks episode we are joined by Brian Moses to discuss all things server development.

@@ -3,12 +3,13 @@ title: Stack and Sculpin with Beau Simensen
 abstract: Discussion on the Stack and Sculpin projects with Beau Simensen
 date: 2014-09-02T19:28:28.000Z
 file: 41-stack-and-sculpin-with-beau-simensen.mp3
-youtube: CMWSsXoaTqk
 layout: podcast
 number: 41
 size: 39255256
 redirect_from: /posts/stack-and-sculpin-with-beau-simensen/
 duration: 3912
+hosts: [Edd Mann, Michael Budd]
+guests: [Beau Simensen]
 ---
 
 This week we are very lucky to have Beau Simensen on the show to discuss all things Stack, Sculpin and podcasting.

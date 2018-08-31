@@ -3,12 +3,13 @@ title: 'Laravel, Code Bright and PHPandas with Dayle Rees'
 abstract: 'Discussion on all things Laravel, Code Bright and PHPandas.'
 date: 2014-06-25T19:30:00.000Z
 file: 31-laravel-code-bright-and-phpandas-with-dayle-rees.mp3
-youtube: z7jBZq9ThfQ
 layout: podcast
 number: 31
 size: 45012724
 redirect_from: /posts/laravel-code-bright-and-phpandas-with-dayle-rees/
 duration: 4519
+hosts: [Edd Mann, Lewis Cains, Michael Budd, Fraser Hart]
+guests: [Dayle Rees]
 ---
 
 This episode we are very lucky to be joined by Dayle Rees, to discuss all things PHP, Laravel and Colour Schemes.

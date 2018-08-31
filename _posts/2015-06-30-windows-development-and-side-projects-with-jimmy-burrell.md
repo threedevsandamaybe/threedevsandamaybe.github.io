@@ -3,11 +3,12 @@ title: Windows Development and Side-Projects with Jimmy Burrell
 abstract: Discussion on developing the HostSignalz side-project for the Windows platform
 date: 2015-06-30T19:20:00.000Z
 file: 69-windows-development-and-side-projects-with-jimmy-burrell.mp3
-youtube: CV1E8DF6JuY
 layout: podcast
 number: 69
 size: 32191915
 duration: 3265
+hosts: [Edd Mann]
+guests: [Jimmy Burrell]
 ---
 
 This week we are very lucky to be joined by long-time listener of the show Jimmy Burrell.

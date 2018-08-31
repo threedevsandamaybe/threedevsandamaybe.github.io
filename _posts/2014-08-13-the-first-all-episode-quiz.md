@@ -3,12 +3,13 @@ title: The First All-Episode Quiz
 abstract: What could be better than an episode-long programming quiz?
 date: 2014-08-13T19:38:04.000Z
 file: 38-the-first-all-episode-quiz.mp3
-youtube: OV-9eiVzqzI
 layout: podcast
 number: 38
 size: 45653098
 redirect_from: /posts/the-first-all-episode-quiz/
 duration: 4633
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 This week we start our chat off with the myth of just simply 'reskinning' a website, along with the dreaded !important in CSS.

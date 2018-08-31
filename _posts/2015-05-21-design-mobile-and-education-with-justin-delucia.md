@@ -3,11 +3,12 @@ title: 'Design, Mobile and Education with Justin DeLucia'
 abstract: 'Discussion on the changing role of the designer, education and mobile'
 date: 2015-05-21T16:20:00.000Z
 file: 65-design-mobile-and-education-with-justin-delucia.mp3
-youtube: LE3V615HIEQ
 layout: podcast
 number: 65
 size: 34535175
 duration: 3559
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: [Justin DeLucia]
 ---
 
 In this weeks show we are lucky to have good friend of the podcast, Justin DeLucia back on.

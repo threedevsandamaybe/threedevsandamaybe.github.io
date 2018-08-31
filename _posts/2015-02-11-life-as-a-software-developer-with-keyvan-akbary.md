@@ -3,11 +3,12 @@ title: Life as a Software Developer with Keyvan Akbary
 abstract: 'Discussion on Developer life, TDD, Start-ups, DDD and Clojure'
 date: 2015-02-11T07:30:00.000Z
 file: 58-life-as-a-software-developer-with-keyvan-akbary.mp3
-youtube: I6JbxWyyUOQ
 layout: podcast
 number: 58
 size: 34061125
 duration: 3998
+hosts: [Edd Mann]
+guests: [Keyvan Akbary]
 ---
 
 This week we are very lucky to have Edd's work college and good friend Keyvan Akbary on the show.

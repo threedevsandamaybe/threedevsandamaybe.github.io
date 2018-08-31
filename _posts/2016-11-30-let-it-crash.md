@@ -7,6 +7,8 @@ layout: podcast
 number: 111
 size: 27360110
 duration: 2960
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode Mick and Edd start off discussion with an update on Mick's masters dissertation.

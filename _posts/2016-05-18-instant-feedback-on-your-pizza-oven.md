@@ -7,6 +7,8 @@ layout: podcast
 number: 98
 size: 37399504
 duration: 3463
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 On this weeks episode Edd and Mick start off discussion around productivity, quick feedback cycles with clients and building pizza ovens.

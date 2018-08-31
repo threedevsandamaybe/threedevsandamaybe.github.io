@@ -3,12 +3,13 @@ title: What is MVC?
 abstract: An introduction to the popular MVC design pattern.
 date: 2014-02-19T21:00:00.000Z
 file: 12-what-is-mvc.mp3
-youtube: Fnw8kIigafM
 layout: podcast
 number: 12
 size: 36311069
 redirect_from: /posts/what-is-mvc/
 duration: 4049
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This week we discuss the popular MVC (Model-View-Controller) design pattern and how it is used in web application development today.

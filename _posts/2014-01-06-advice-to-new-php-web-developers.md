@@ -3,12 +3,13 @@ title: Advice to new PHP web developers
 abstract: 'Advice to new PHP web developers, discussing what/how is best to learn and frameworks.'
 date: 2014-01-06T21:30:00.000Z
 file: 6-advice-to-new-php-web-developers.mp3
-youtube: 8wvWNU-36l8
 layout: podcast
 number: 6
 size: 32521864
 redirect_from: /posts/advice-to-new-php-web-developers/
 duration: 3793
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 With all the recent discussion in the PHP community we decided it would be a good time to give some grounded advice to new developers.

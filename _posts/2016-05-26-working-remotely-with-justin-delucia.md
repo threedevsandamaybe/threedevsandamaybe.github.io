@@ -7,6 +7,8 @@ layout: podcast
 number: 99
 size: 32526683
 duration: 3309
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: [Justin DeLucia]
 ---
 
 On this weeks episode we are lucky to be joined by good friend of the show Justin DeLucia.

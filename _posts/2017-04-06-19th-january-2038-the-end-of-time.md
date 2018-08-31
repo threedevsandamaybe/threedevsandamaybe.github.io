@@ -7,6 +7,8 @@ layout: podcast
 number: 126
 size: 22592816
 duration: 2175
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode we start off the podcast with discussion around Timezones, Daylight saving time and how the Year 2038 will be an interesting one.

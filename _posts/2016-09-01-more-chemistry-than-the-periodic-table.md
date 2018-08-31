@@ -7,6 +7,8 @@ layout: podcast
 number: 107
 size: 31083001
 duration: 3121
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode we start off the show by catching up on the 'programming filled' holidays both Edd and Mick have just come back from.

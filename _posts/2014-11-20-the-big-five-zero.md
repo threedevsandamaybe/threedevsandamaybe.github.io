@@ -3,11 +3,12 @@ title: The Big Five-Zero
 abstract: 'Discussion on great feedback, Amazon re:Invent, CodeIgniter 3 and Memory Management'
 date: 2014-11-20T19:15:00.000Z
 file: 50-the-big-five-zero.mp3
-youtube: 2e3agqnUBF4
 layout: podcast
 number: 50
 size: 33401390
 duration: 3346
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 This week we celebrate the 50th episode of the podcast in style, by... not even remembering it is the 50th episode till half way through (whoops).

@@ -3,12 +3,13 @@ title: Introduction to Web Application Frameworks
 abstract: An introduction to the world of web application frameworks.
 date: 2014-04-02T18:00:00.000Z
 file: 18-introduction-to-web-application-frameworks.mp3
-youtube: TSDMpMq2q0k
 layout: podcast
 number: 18
 size: 36669153
 redirect_from: /posts/introduction-to-web-application-frameworks/
 duration: 4143
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This week we introduce web application frameworks into the software development mix.

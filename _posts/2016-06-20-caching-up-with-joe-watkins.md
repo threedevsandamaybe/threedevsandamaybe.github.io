@@ -7,6 +7,8 @@ layout: podcast
 number: 103
 size: 22264773
 duration: 2334
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this weeks episode we are lucky to be joined by Joe Watkins.

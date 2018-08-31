@@ -7,6 +7,8 @@ layout: podcast
 number: 106
 size: 31315343
 duration: 3238
+hosts: [Edd Mann]
+guests: [Jason Marden]
 ---
 
 On this weeks episode we are lucky to be joined by Jason Marden, to discuss the world of Amazon Web Services.

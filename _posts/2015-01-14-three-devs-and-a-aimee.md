@@ -3,11 +3,12 @@ title: Three Devs and a Aimee
 abstract: 'First show of the year, with discussion on compiling from source, nginx and Postgres'
 date: 2015-01-14T09:30:00.000Z
 file: 54-three-devs-and-a-aimee.mp3
-youtube: 2uhnEsgjn6s
 layout: podcast
 number: 54
 size: 38720718
 duration: 3574
+hosts: [Edd Mann, Lewis Cains, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 It is the first show of the new year!

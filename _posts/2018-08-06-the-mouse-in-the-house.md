@@ -7,6 +7,8 @@ layout: podcast
 number: 153
 size: 19950868
 duration: 2925
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode we start off discussion around testing in a Continuous Integration pipeline, and setting up a personal Bamboo CI system.

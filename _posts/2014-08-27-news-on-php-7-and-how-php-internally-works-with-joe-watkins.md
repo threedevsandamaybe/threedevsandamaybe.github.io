@@ -3,12 +3,13 @@ title: 'News on PHP 7, and how PHP internally works with Joe Watkins'
 abstract: The latest news on PHP 7 and how PHP internally works to execute your code.
 date: 2014-08-27T12:00:00.000Z
 file: 40-news-on-php-7-and-how-php-internally-works-with-joe-watkins.mp3
-youtube: yUiOKBJA9jM
 layout: podcast
 number: 40
 size: 39135994
 redirect_from: /posts/news-on-php-7-and-how-php-internally-works-with-joe-watkins/
 duration: 4132
+hosts: [Edd Mann, Michael Budd]
+guests: [Joe Watkins]
 ---
 
 In this weeks show we are very lucky to have Joe Watkins on again to discuss all things PHP 7.

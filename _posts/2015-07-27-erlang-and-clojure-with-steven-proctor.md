@@ -3,11 +3,12 @@ title: Erlang and Clojure with Steven Proctor
 abstract: 'Discussion on thinking like an Erlanger, Clojure and Functional Programming'
 date: 2015-07-27T09:50:00.000Z
 file: 71-erlang-and-clojure-with-steven-proctor.mp3
-youtube: fGQEEkQjsIc
 layout: podcast
 number: 71
 size: 34641047
 duration: 4208
+hosts: [Edd Mann]
+guests: [Steven Proctor]
 ---
 
 This week we are very lucky to be joined by fellow podcaster and host of Functional Geekery - Steven Proctor.

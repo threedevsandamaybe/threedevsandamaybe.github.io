@@ -3,11 +3,12 @@ title: The SOLID Podcast
 abstract: 'Discussion on the SOLID principles, HTML5 game development, front-end testing and more'
 date: 2015-01-28T09:30:00.000Z
 file: 56-the-solid-podcast.mp3
-youtube: 7Fx1de0LZYM
 layout: podcast
 number: 56
 size: 43041703
 duration: 3865
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 This week we have a three developer podcast with discussion on a host of topics.

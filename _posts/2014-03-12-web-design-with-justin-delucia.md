@@ -3,12 +3,13 @@ title: Web Design with Justin DeLucia
 abstract: Looking into the world of web design.
 date: 2014-03-12T23:30:00.000Z
 file: 15-web-design-with-justin-delucia.mp3
-youtube: IEgejKwHG6g
 layout: podcast
 number: 15
 size: 54390935
 redirect_from: /posts/web-design-with-justin-delucia/
 duration: 6014
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: [Justin DeLucia]
 ---
 
 This week we are lucky to have special guest and good friend of the show Justin DeLucia on to discuss all things web design.

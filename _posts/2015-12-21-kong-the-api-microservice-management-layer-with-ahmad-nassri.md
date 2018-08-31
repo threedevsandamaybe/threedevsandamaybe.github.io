@@ -7,6 +7,8 @@ layout: podcast
 number: 83
 size: 39428797
 duration: 4256
+hosts: [Edd Mann]
+guests: [Ahmad Nassri]
 ---
 
 This week we are very lucky to have Ahmad Nassri on the show to discuss the world of API's and how Kong (the API/Microservice management layer) fits into the picture.

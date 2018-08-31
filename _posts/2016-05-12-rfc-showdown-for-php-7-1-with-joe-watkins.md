@@ -7,6 +7,8 @@ layout: podcast
 number: 97
 size: 32577197
 duration: 3431
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this episode we are joined by Joe Watkins to discuss the many RFC's that are in contention to be approved for PHP 7.1.

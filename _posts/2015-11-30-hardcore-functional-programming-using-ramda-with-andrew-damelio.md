@@ -7,6 +7,8 @@ layout: podcast
 number: 80
 size: 32423092
 duration: 3508
+hosts: [Edd Mann]
+guests: [Andrew DAmelio]
 ---
 
 In this week's show we are lucky to be joined by Andrew D'Amelio, to discuss all things Ramda and 'Hardcore' Functional Programming.

@@ -7,6 +7,8 @@ layout: podcast
 number: 87
 size: 40459164
 duration: 3751
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 Apologies for Edd's awful audio echo this week, serves him right for trying to bring sound-drops to the podcast.

@@ -7,6 +7,8 @@ layout: podcast
 number: 147
 size: 31987489
 duration: 3925
+hosts: [Edd Mann]
+guests: [Jay Smith]
 ---
 
 In this week's episode we are lucky to have Jay Smith back on the show to talk all things cryptocurrency.

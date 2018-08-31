@@ -3,11 +3,12 @@ title: "Conference Experiences, RFC's and The PHP League with Phil Sturgeon"
 abstract: "Discussion on Conferences, PHP RFC's, The PHP League and much more"
 date: 2015-04-15T09:30:00.000Z
 file: 61-conference-experiences-rfcs-and-the-php-league-with-phil-sturgeon.mp3
-youtube: DjGgTUrK5tc
 layout: podcast
 number: 61
 size: 32340865
 duration: 3476
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: [Phil Sturgeon]
 ---
 
 This episode we are fortunate enough to have Phil Sturgeon back on the show.

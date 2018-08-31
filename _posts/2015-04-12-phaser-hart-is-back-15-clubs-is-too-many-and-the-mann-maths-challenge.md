@@ -3,11 +3,12 @@ title: "'Phaser' Hart is back, 15 clubs is too many and the Mann Maths challenge
 abstract: 'I think the name of the show speaks for itself!'
 date: 2015-04-12T21:15:00.000Z
 file: 60-phaser-hart-is-back-15-clubs-is-too-many-and-the-mann-maths-challenge.mp3
-youtube: H0imf8lG0AI
 layout: podcast
 number: 60
 size: 63261753
 duration: 3930
+hosts: [Edd Mann, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 Hey folks, Edd, Lew and Fraser are back this evening for a good ol' web/anything else catchup.

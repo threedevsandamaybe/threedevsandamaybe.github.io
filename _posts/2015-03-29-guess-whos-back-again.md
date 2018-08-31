@@ -3,11 +3,12 @@ title: "Guess Who's Back? Again..."
 abstract: "It's been a while, but we are back with more podcast goodness."
 date: 2015-03-29T18:30:00.000Z
 file: 59-guess-whos-back-again.mp3
-youtube: i6bgQ3umRbE
 layout: podcast
 number: 59
 size: 35940774
 duration: 3573
+hosts: [Edd Mann, Lewis Cains, Michael Budd]
+guests: []
 ---
 
 We're back folks. It's been a few weeks since we last recorded and thanks to you all that enquired as to 'where we were?'

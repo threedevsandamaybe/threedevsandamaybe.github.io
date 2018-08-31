@@ -7,6 +7,8 @@ layout: podcast
 number: 86
 size: 36510297
 duration: 3720
+hosts: [Edd Mann]
+guests: [Camille Baldock]
 ---
 
 On this weeks show we are lucky to be joined by Camille Baldock to discuss all things API related.

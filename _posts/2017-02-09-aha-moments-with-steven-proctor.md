@@ -7,6 +7,8 @@ layout: podcast
 number: 119
 size: 36149188
 duration: 3891
+hosts: [Edd Mann]
+guests: [Steven Proctor]
 ---
 
 In this weeks episode we are lucky to have Steven Proctor back on the show.

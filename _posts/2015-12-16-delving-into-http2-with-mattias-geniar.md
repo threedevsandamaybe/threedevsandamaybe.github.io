@@ -7,6 +7,8 @@ layout: podcast
 number: 82
 size: 36004531
 duration: 3658
+hosts: [Edd Mann]
+guests: [Mattias Geniar]
 ---
 
 On this week's show we are joined by Mattias Geniar to discuss all things HTTP2.

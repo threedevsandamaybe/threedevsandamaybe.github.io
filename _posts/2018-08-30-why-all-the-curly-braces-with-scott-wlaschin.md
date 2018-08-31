@@ -7,6 +7,8 @@ layout: podcast
 number: 154
 size: 33235724
 duration: 4208
+hosts: [Edd Mann]
+guests: [Scott Wlaschin]
 ---
 
 In this weeks episode we are lucky to have Scott Wlaschin back on the show to discuss his most recent talk 'Four Languages from Forty Years Ago'.

@@ -7,6 +7,8 @@ layout: podcast
 number: 152
 size: 29791878
 duration: 3129
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode Mick and Edd have a long overdue catchup!

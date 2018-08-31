@@ -7,6 +7,8 @@ layout: podcast
 number: 105
 size: 34035688
 duration: 3144
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 On this weeks show we start off discussion around what we have been up to away from the keyboard, and an update on Mick's big freelance project.

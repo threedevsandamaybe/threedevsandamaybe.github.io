@@ -3,12 +3,13 @@ title: Understanding Character Sets and Encodings
 abstract: 'In-depth discussion on ASCII, ISO-8859-* and Unicode (UTF-8 etc.)'
 date: 2014-05-14T09:00:00.000Z
 file: 24-understanding-character-sets-and-encodings.mp3
-youtube: oKw-Hm_Fsm8
 layout: podcast
 number: 24
 size: 47141822
 redirect_from: /posts/understanding-character-sets-and-encodings/
 duration: 5269
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 Having only just recently been bit by the character encoding issue again, we thought it would be a good time to bring it up on the podcast.

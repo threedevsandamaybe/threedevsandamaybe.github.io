@@ -7,6 +7,8 @@ layout: podcast
 number: 109
 size: 18517435
 duration: 1987
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this weeks episode we have a long overdue catch-up with Joe Watkins.

@@ -3,11 +3,12 @@ title: Flysystem with Frank de Jonge
 abstract: 'Discussion with Frank on all things Flysystem, Freelancing and Laracon'
 date: 2014-10-15T08:30:00.000Z
 file: 47-flysystem-with-frank-de-jonge.mp3
-youtube: g_TfKtAwhEA
 layout: podcast
 number: 47
 size: 41468245
 duration: 4068
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: [Frank de Jonge]
 ---
 
 This week we are lucky to have Frank de Jonge (of Flysystem fame) on the show.

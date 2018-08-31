@@ -7,6 +7,8 @@ layout: podcast
 number: 88
 size: 36696135
 duration: 3454
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 In this weeks show we start off the podcast with discussion on SQL performance, different types of join and effective indexing based on the query planner.

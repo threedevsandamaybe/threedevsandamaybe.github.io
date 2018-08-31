@@ -3,12 +3,13 @@ title: 'Introduction to Java and C#'
 abstract: 'An introductory discussion on Java and C#, comparing the two languages.'
 date: 2014-08-20T12:11:38.000Z
 file: 39-introduction-to-java-and-c-sharp.mp3
-youtube: 7wqUm1BccbY
 layout: podcast
 number: 39
 size: 45758549
 redirect_from: /posts/introduction-to-java-and-c-sharp/
 duration: 4567
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks pre-recorded show we introduce the Java and C# languages, discussing how the two relate and diverge in design.

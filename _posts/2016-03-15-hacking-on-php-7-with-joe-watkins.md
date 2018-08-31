@@ -3,6 +3,8 @@ title: Hacking on PHP 7 with Joe Watkins
 abstract: Hacking on the PHP 7 core to develop new language constructs
 date: 2016-03-15T19:00:00.000Z
 layout: screencast
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this screencast episode Edd n' Joe discuss designing language constructs for the PHP 7 core.

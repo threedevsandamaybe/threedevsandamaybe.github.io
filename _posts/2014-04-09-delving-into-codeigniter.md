@@ -3,12 +3,13 @@ title: Delving into CodeIgniter
 abstract: 'A look at the mature, small footprint web application framework.'
 date: 2014-04-09T22:00:00.000Z
 file: 19-delving-into-codeigniter.mp3
-youtube: dm8PfwBTzlA
 layout: podcast
 number: 19
 size: 38810991
 redirect_from: /posts/delving-into-codeigniter/
 duration: 4409
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 In this weeks show we continue our discussion on web application frameworks by delving into CodeIgniter.

@@ -7,6 +7,8 @@ layout: podcast
 number: 100
 size: 40562259
 duration: 3860
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 We have a full host podcast for the 100th episode!

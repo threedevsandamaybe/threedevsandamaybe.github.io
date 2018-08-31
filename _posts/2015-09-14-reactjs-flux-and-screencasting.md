@@ -3,11 +3,12 @@ title: 'ReactJS, Flux and Screencasting'
 abstract: 'Discussion on ReactJS, Flux architecture, Session hijacking and much more...'
 date: 2015-09-14T10:00:00.000Z
 file: 72-reactjs-flux-and-screencasting.mp3
-youtube: gOS0FzUCH1I
 layout: podcast
 number: 72
 size: 35710037
 duration: 3483
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 This week we start off discussion with the topic of CSRF and Session hijacking.

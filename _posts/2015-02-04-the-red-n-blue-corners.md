@@ -3,11 +3,12 @@ title: "The Red n' Blue Corners"
 abstract: 'Discussion on Framework agnostic architectures, Functional JavaScript and Gists'
 date: 2015-02-04T18:45:00.000Z
 file: 57-the-red-n-blue-corners.mp3
-youtube: mVm9Yfh_vHk
 layout: podcast
 number: 57
 size: 33728675
 duration: 3324
+hosts: [Edd Mann, Lewis Cains]
+guests: []
 ---
 
 With Mick and Fraser off conquering a half-marathon, Edd n' Lew decide to instead stay inside and do a little lite gaming, followed by a podcast.

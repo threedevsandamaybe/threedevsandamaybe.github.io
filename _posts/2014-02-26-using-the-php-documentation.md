@@ -3,12 +3,13 @@ title: Using the PHP Documentation
 abstract: "Tips n' tricks to use the PHP documentation effectively."
 date: 2014-02-26T22:00:00.000Z
 file: 13-using-the-php-documentation.mp3
-youtube: N2e9nPRhNL4
 layout: podcast
 number: 13
 size: 35319843
 redirect_from: /posts/using-the-php-documentation/
 duration: 3930
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This week we discuss the important topic of learning how to effectively use the PHP documentation.

@@ -7,6 +7,8 @@ layout: podcast
 number: 127
 size: 30006650
 duration: 3254
+hosts: [Edd Mann]
+guests: [Brian Moses]
 ---
 
 In this weeks episode we are again lucky to be joined by Brian Moses, to continue our discussion on building your own home server.

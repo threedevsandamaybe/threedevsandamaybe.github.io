@@ -7,6 +7,8 @@ layout: podcast
 number: 117
 size: 47481779
 duration: 4898
+hosts: [Edd Mann]
+guests: [Bruce Momjian]
 ---
 
 Following on from our previous look at the Query planner - we are joined again by Bruce Momjian to extend this exploration into looking how Postgres manages concurrency.

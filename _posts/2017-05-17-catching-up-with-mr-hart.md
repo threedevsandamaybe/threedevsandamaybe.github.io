@@ -7,6 +7,8 @@ layout: podcast
 number: 128
 size: 28025585
 duration: 2862
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 In this weeks episode we are joined by fellow co-host Fraser Hart.

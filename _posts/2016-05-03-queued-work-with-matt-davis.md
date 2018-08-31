@@ -7,6 +7,8 @@ layout: podcast
 number: 95
 size: 32904599
 duration: 3264
+hosts: [Edd Mann]
+guests: [Matt Davis]
 ---
 
 On this weeks episode we are lucky to be joined by Matt Davis.

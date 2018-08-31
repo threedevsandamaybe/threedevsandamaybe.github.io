@@ -7,6 +7,8 @@ layout: podcast
 number: 112
 size: 23013891
 duration: 2610
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks second in-person episode, we start off by congratulating Fraser on his recent engagement.

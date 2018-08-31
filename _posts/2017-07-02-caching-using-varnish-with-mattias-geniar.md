@@ -7,6 +7,8 @@ layout: podcast
 number: 132
 size: 39049487
 duration: 3870
+hosts: [Edd Mann]
+guests: [Mattias Geniar]
 ---
 
 In this weeks episode we discuss the Varnish 'HTTP accelerator' with Mattias Geniar.

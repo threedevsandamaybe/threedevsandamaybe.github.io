@@ -7,6 +7,8 @@ layout: podcast
 number: 151
 size: 33734557
 duration: 3622
+hosts: [Edd Mann]
+guests: [Alex Bilbie]
 ---
 
 In this weeks episode we are lucky to be joined by Alex Bilbie to discuss all things AWS, Golang and iOS development.

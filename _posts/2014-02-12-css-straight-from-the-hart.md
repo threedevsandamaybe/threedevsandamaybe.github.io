@@ -3,12 +3,13 @@ title: 'CSS, Straight from the Hart'
 abstract: An introduction and brief history lesson on CSS.
 date: 2014-02-12T22:00:00.000Z
 file: 11-css-straight-from-the-hart.mp3
-youtube: _r2Zdk9WKFU
 layout: podcast
 number: 11
 size: 65710529
 redirect_from: /posts/css-straight-from-the-hart/
 duration: 4083
+hosts: [Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 In this weeks show we introduce CSS to the web-development party.

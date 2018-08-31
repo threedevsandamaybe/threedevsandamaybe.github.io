@@ -7,6 +7,8 @@ layout: podcast
 number: 134
 size: 25630996
 duration: 2564
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 After a month 'off the airwaves', Mick and Edd are back to delve into several topics that have been keeping them interested.

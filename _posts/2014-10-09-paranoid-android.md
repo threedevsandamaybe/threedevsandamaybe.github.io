@@ -3,11 +3,12 @@ title: Paranoid Android
 abstract: 'Discussion on Google Web Designer, feature creep and the upcoming Turing movie'
 date: 2014-10-09T20:00:00.000Z
 file: 46-paranoid-android.mp3
-youtube: LOP-5O008OA
 layout: podcast
 number: 46
 size: 19942444
 duration: 2053
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 This week we start off the discussion with our bad pronunciation of PHP libraries.

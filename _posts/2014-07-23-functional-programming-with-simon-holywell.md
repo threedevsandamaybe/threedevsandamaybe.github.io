@@ -3,12 +3,13 @@ title: Functional Programming with Simon Holywell
 abstract: An introduction to the functional programming paradigm with Simon Holywell.
 date: 2014-07-23T06:00:00.000Z
 file: 35-functional-programming-with-simon-holywell.mp3
-youtube: AX21yJaRuxM
 layout: podcast
 number: 35
 size: 24663065
 redirect_from: /posts/functional-programming-with-simon-holywell/
 duration: 2520
+hosts: [Edd Mann]
+guests: [Simon Holywell]
 ---
 
 This week we are lucky to have Simon Holywell on the show to talk all things Functional Programming.

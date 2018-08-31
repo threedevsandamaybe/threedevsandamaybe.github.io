@@ -3,11 +3,12 @@ title: I Want You Back
 abstract: 'After a two week hiatus, we are back with ramblings on security, the YubiKey and more'
 date: 2014-11-05T09:30:00.000Z
 file: 48-i-want-you-back.mp3
-youtube: _S_N2aOLa6Q
 layout: podcast
 number: 48
 size: 40089684
 duration: 3875
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 Two weeks in the making, we are finally back with another podcast instalment.

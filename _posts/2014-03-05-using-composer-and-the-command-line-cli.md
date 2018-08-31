@@ -3,12 +3,13 @@ title: Using Composer and the Command Line (CLI)
 abstract: Varied discussion on the merits of using Composer and the CLI.
 date: 2014-03-05T22:00:00.000Z
 file: 14-using-composer-and-the-command-line-cli.mp3
-youtube: sp-7BYrEPks
 layout: podcast
 number: 14
 size: 44416593
 redirect_from: /posts/using-composer-and-the-command-line-cli/
 duration: 4852
+hosts: [Edd Mann, Lewis Cains]
+guests: []
 ---
 
 With only a two man crew this week we decided to have a little ramble about Composer and the Command Line.

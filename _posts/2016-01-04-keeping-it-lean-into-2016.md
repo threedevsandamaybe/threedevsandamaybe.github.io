@@ -7,6 +7,8 @@ layout: podcast
 number: 84
 size: 30867134
 duration: 3078
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 In this years first episode we start off the show with discussion on Lew's newly updated website, Bowling Game Code Katas and PostgreSQL.

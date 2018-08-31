@@ -3,11 +3,12 @@ title: Development after University with Jason Marden
 abstract: 'Discussion on Software Design, Testing and Development after University'
 date: 2015-06-09T14:30:00.000Z
 file: 67-development-after-university-with-jason-marden.mp3
-youtube: mWCREq8nEEI
 layout: podcast
 number: 67
 size: 32065668
 duration: 3271
+hosts: [Edd Mann]
+guests: [Jason Marden]
 ---
 
 This week we are lucky to have good friend of Edd's, Jason Marden on the show.

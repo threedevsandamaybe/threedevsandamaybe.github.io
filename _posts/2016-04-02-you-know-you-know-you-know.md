@@ -7,6 +7,8 @@ layout: podcast
 number: 93
 size: 38251884
 duration: 3584
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 On this episode (where Edd says 'You Know' alot!) we start off with discussion surrounding Lew's recent move.

@@ -7,6 +7,8 @@ layout: podcast
 number: 148
 size: 33509025
 duration: 3570
+hosts: [Edd Mann]
+guests: [Niall Murphy]
 ---
 
 In this week's episode we are lucky to be joined by Niall Murphy to discuss the discipline of Site Reliability Engineering.

@@ -7,6 +7,8 @@ layout: podcast
 number: 122
 size: 26965616
 duration: 2636
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode we start off discussion with experiences handling online payments, CRM export integration and highlight how PHPStorm can be a great SQL editor.

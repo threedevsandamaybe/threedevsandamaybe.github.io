@@ -7,6 +7,8 @@ layout: podcast
 number: 140
 size: 26615596
 duration: 2801
+hosts: [Edd Mann]
+guests: [Scott Arciszewski]
 ---
 
 In this weeks episode we chat with Scott Arciszewski about all things Security and Cryptography.

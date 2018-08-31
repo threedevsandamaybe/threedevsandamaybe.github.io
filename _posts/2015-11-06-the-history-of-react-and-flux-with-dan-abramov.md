@@ -7,6 +7,8 @@ layout: podcast
 number: 77
 size: 57731970
 duration: 5523
+hosts: [Edd Mann]
+guests: [Dan Abramov]
 ---
 
 On this weeks episode we are lucky to be joined by Dan Abramov, creator of Redux and React Hot Loader (React Transform).

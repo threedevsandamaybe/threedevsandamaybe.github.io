@@ -3,6 +3,8 @@ title: Developing a Resizable-Indexed Array as a PHP Extension with Joe Watkins
 abstract: PHP Extension screencast discussing how to implement a Resizable-Indexed Array
 date: 2015-08-28T17:30:00.000Z
 layout: screencast
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 This follows on from our first screencast which touched upon how to setup a PHP extension development environment and creating a simple 'array_sum' like function.

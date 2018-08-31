@@ -3,11 +3,12 @@ title: YARP (Yet Another Ramble Podcast)
 abstract: "Ramblings on WebSockets, Gulp, Git rebasing and 'Active Record vs. Data Mapper'"
 date: 2014-09-17T06:00:00.000Z
 file: 43-yarp-yet-another-ramble-podcast.mp3
-youtube: GJFqPZ5JwLA
 layout: podcast
 number: 43
 size: 40612327
 duration: 3742
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 Being without a guest this episode, gave us the excuse to ramble on about many different topics that have been on our minds for the past couple of weeks.

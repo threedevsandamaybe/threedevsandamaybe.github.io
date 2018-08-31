@@ -3,11 +3,12 @@ title: The Christmas Episode
 abstract: 'Chat on Fuzzy Logic, Gambling, Rock-Paper-Scissors and your great feedback'
 date: 2014-12-23T09:30:00.000Z
 file: 52-the-christmas-episode.mp3
-youtube: Zb1edbqZBuo
 layout: podcast
 number: 52
 size: 27404801
 duration: 2509
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 It is two days before Christmas but that will not stop us from recording a new episode.

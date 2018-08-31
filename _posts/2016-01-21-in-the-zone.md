@@ -7,6 +7,8 @@ layout: podcast
 number: 85
 size: 39172469
 duration: 3685
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 On this weeks show we start off with Mick's recent dive into React, discussing alternatives in process.

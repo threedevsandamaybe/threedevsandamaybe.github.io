@@ -3,11 +3,12 @@ title: Space Beer Cave
 abstract: 'Discussion on holidays, mobile game development, web security and more'
 date: 2015-05-13T17:40:00.000Z
 file: 64-space-beer-cave.mp3
-youtube: drIKZXtpUYM
 layout: podcast
 number: 64
 size: 32387759
 duration: 3232
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 In this weeks two developer podcast, we start off discussion with Edd's recent holiday to America - including experiences driving, Carousel and Instagram.

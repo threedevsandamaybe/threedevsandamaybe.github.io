@@ -7,6 +7,8 @@ layout: podcast
 number: 76
 size: 32789138
 duration: 3357
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 This week we are very lucky to have Lewis back on the show after his recent move.

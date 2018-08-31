@@ -7,6 +7,8 @@ layout: podcast
 number: 108
 size: 28964994
 duration: 2902
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode we start off discussion on the latest Apple event, what we think the next big product will be (the Apple Hat?!) and phone battery life woes.

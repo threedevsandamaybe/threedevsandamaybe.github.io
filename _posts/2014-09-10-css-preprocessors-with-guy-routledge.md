@@ -3,12 +3,13 @@ title: CSS Preprocessors with Guy Routledge
 abstract: 'An introduction into CSS Preprocessors (Sass, Less and Stylus) with Guy Routledge.'
 date: 2014-09-10T08:57:26.000Z
 file: 42-css-preprocessors-with-guy-routledge.mp3
-youtube: klgGGH4yi-M
 layout: podcast
 number: 42
 size: 42003857
 redirect_from: /posts/css-preprocessors-with-guy-routledge/
 duration: 3906
+hosts: [Edd Mann, Michael Budd]
+guests: [Guy Routledge]
 ---
 
 This week we are lucky to be joined by Guy Routledge to discuss all things CSS Preprocessor.

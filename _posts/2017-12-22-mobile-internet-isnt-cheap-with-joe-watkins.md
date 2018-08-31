@@ -7,6 +7,8 @@ layout: podcast
 number: 139
 size: 24839758
 duration: 2728
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this episode we catch up with Joe Watkins to discuss all things PHP.

@@ -7,6 +7,8 @@ layout: podcast
 number: 138
 size: 37396913
 duration: 4049
+hosts: [Edd Mann]
+guests: [Andy Raines]
 ---
 
 In this weeks episode we chat to Andy Raines about all things Serverless.

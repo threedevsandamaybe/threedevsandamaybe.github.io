@@ -7,6 +7,8 @@ layout: podcast
 number: 79
 size: 30906210
 duration: 3159
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this week's show we start off discussion with Lew's upgraded audio and Mick's side-project 'Smuddle' which hopes to help fill a void in the shopping comparison site area.

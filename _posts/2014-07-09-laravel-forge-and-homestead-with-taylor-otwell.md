@@ -3,12 +3,13 @@ title: 'Laravel, Forge and Homestead with Taylor Otwell'
 abstract: Discussion with Taylor Otwell on all things Laravel.
 date: 2014-07-09T13:00:00.000Z
 file: 33-laravel-forge-and-homestead-with-taylor-otwell.mp3
-youtube: kRrnlWl1yyQ
 layout: podcast
 number: 33
 size: 35726898
 redirect_from: /posts/laravel-forge-and-homestead-with-taylor-otwell/
 duration: 3551
+hosts: [Edd Mann, Lewis Cains, Michael Budd]
+guests: [Taylor Otwell]
 ---
 
 This week we are very lucky to have the creator of Laravel, Taylor Otwell on the show.

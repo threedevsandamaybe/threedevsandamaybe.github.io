@@ -7,6 +7,8 @@ layout: podcast
 number: 75
 size: 28243387
 duration: 3123
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 On this weeks show we start off proceedings with Edd's experience developing and deploying a JavaScript centric application - mentioning an example application he is currently working on to document use of Flux, React, Webpack and Karma.

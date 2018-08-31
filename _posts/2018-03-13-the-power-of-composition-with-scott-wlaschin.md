@@ -7,6 +7,8 @@ layout: podcast
 number: 145
 size: 42395328
 duration: 4064
+hosts: [Edd Mann]
+guests: [Scott Wlaschin]
 ---
 
 In this weeks episode we are lucky to have Scott Wlaschin back on the show.

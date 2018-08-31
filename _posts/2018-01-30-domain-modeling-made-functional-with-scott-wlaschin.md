@@ -7,6 +7,8 @@ layout: podcast
 number: 142
 size: 42300686
 duration: 4113
+hosts: [Edd Mann]
+guests: [Scott Wlaschin]
 ---
 
 In this weeks episode we chat to Scott Wlaschin about his new book 'Domain Modeling Made Functional'.

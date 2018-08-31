@@ -3,12 +3,13 @@ title: 'PHP Internals, pthreads and PHPDBG with Joe Watkins'
 abstract: 'Looking into PHP Internals, pthreads and the PHPDBG project.'
 date: 2014-05-28T20:30:00.000Z
 file: 26-php-internals-pthreads-and-phpdbg-with-joe-watkins.mp3
-youtube: 5smkrsG-vQY
 layout: podcast
 number: 26
 size: 52496877
 redirect_from: /posts/php-internals-pthreads-and-phpdbg-with-joe-watkins/
 duration: 6400
+hosts: [Edd Mann, Michael Budd]
+guests: [Joe Watkins]
 ---
 
 This week we are very lucky to have Joe Watkins from pthreads and PHPDBG fame on the podcast.

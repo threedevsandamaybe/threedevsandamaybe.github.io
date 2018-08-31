@@ -3,12 +3,13 @@ title: Introduction to JavaScript
 abstract: An introduction to the dynamic JavaScript programming language.
 date: 2014-04-23T22:30:00.000Z
 file: 21-introduction-to-javascript.mp3
-youtube: G0lE7VBZrP0
 layout: podcast
 number: 21
 size: 39022573
 redirect_from: /posts/introduction-to-javascript/
 duration: 4380
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 In this weeks show we introduce the JavaScript programming language, which now seems to be available everywhere.

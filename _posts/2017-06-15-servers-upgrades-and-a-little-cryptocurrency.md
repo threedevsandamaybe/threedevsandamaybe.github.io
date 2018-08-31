@@ -7,6 +7,8 @@ layout: podcast
 number: 131
 size: 29644533
 duration: 2868
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode we start off by discussing Edd's recent Server build, touching upon the hardware specifications, OS/ZFS-pool choices and monitoring configuration.

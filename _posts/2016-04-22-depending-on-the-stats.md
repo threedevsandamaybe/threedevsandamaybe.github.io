@@ -7,6 +7,8 @@ layout: podcast
 number: 94
 size: 26415112
 duration: 2451
+hosts: [Edd Mann, Lewis Cains]
+guests: []
 ---
 
 In this weeks episode Edd and Lew start off discussion with the topic of relying on external dependencies within a project - explaining issues surrounding this practice and mitigating problems that may arise.

@@ -7,6 +7,8 @@ layout: podcast
 number: 130
 size: 33678209
 duration: 3259
+hosts: [Edd Mann]
+guests: [Colin Hardy]
 ---
 
 On this weeks show we are joined by Colin Hardy to discuss all things Cyber Security.

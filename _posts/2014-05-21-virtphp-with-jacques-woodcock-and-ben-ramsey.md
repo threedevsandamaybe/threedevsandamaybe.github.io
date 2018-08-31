@@ -3,12 +3,13 @@ title: virtPHP with Jacques Woodcock and Ben Ramsey
 abstract: Discussion on virtPHP with two of the projects creators.
 date: 2014-05-21T20:00:00.000Z
 file: 25-virtphp-with-jacques-woodcock-and-ben-ramsey.mp3
-youtube: h3BCkSXACMg
 layout: podcast
 number: 25
 size: 51252139
 redirect_from: /posts/virtphp-with-jacques-woodcock-and-ben-ramsey/
 duration: 5595
+hosts: [Edd Mann, Michael Budd]
+guests: [Ben Ramsey, Jacques Woodcock]
 ---
 
 This week we are very lucky to have Jacques Woodcock and Ben Ramsey from the virtPHP project on the podcast.

@@ -7,6 +7,8 @@ layout: podcast
 number: 110
 size: 20690406
 duration: 2193
+hosts: [Edd Mann]
+guests: [Jonathan Klein]
 ---
 
 In this weeks episode we are joined by Jonathan Klein to discuss his recently released Composer Pluralsight course.

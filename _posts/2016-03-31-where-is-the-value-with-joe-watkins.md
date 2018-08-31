@@ -7,6 +7,8 @@ layout: podcast
 number: 92
 size: 32575058
 duration: 3368
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this week's episode we start off discussion with a recent PHP RFC Joe has been working on in-regard to typed properties, bringing up the value (if any) surrounding getters and setters.

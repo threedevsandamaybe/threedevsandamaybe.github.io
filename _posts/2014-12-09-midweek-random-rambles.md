@@ -3,11 +3,12 @@ title: Midweek Random Rambles
 abstract: 'An unthemed show covering Gulp, Bower and the risks of asset compression/concatenation'
 date: 2014-12-09T09:30:00.000Z
 file: 51-midweek-random-rambles.mp3
-youtube: j7zhFth-H9k
 layout: podcast
 number: 51
 size: 53569248
 duration: 3882
+hosts: [Edd Mann, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 In our 51st podcast we temporarily revert to a midweek recording of the show.

@@ -3,12 +3,13 @@ title: Discussion on Freelance Work
 abstract: 'We chat about our freelance experiences, how we find projects and what to look out for.'
 date: 2014-01-14T22:00:00.000Z
 file: 7-discussion-on-freelance-work.mp3
-youtube: mOHVlmuaoHo
 layout: podcast
 number: 7
 size: 35088001
 redirect_from: /posts/discussion-on-freelance-work/
 duration: 3879
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 Following our discussion last week, we received a very cool email from a listener highlighting freelance work.

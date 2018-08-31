@@ -3,12 +3,13 @@ title: Web Hosting and Domains - Part 2
 abstract: '2nd part of our section on web hosting, followed by discussion on domains.'
 date: 2013-12-09T22:00:00.000Z
 file: 4-web-hosting-and-domains-part-2.mp3
-youtube: 5iDnQAucklI
 layout: podcast
 number: 4
 size: 37034049
 redirect_from: /posts/web-hosting-and-domains-part-2/
 duration: 3955
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 Second part of our discussion on Web Hosting options and what to look out for.

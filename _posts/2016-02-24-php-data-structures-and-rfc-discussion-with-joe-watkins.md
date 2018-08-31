@@ -7,6 +7,8 @@ layout: podcast
 number: 90
 size: 29447490
 duration: 3148
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this weeks episode Edd is joined by podcast regular Joe Watkins.

@@ -7,6 +7,8 @@ layout: podcast
 number: 96
 size: 31374096
 duration: 2909
+hosts: [Edd Mann]
+guests: [Jonathan Klein]
 ---
 
 On this weeks episode we are joined by Jonathan Klein to discuss all things application performance.

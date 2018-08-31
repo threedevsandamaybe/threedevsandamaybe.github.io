@@ -3,12 +3,13 @@ title: 'The PHP-FIG/RFC, CodeIgniter 3 and PyroCMS with Phil Sturgeon'
 abstract: Discussion on a wide-variety of PHP topics with Phil Sturgeon
 date: 2014-06-11T20:30:00.000Z
 file: 28-the-php-fig-rfc-codeigniter-3-and-pyrocms-with-phil-sturgeon.mp3
-youtube: nWv1rxJwlC8
 layout: podcast
 number: 28
 size: 35575379
 redirect_from: /posts/the-php-fig-rfc-codeigniter-3-and-pyrocms-with-phil-sturgeon/
 duration: 3732
+hosts: [Edd Mann]
+guests: [Phil Sturgeon]
 ---
 
 This week we are lucky to have the one n' only Phil Sturgeon on the show.

@@ -3,11 +3,12 @@ title: 'Composer, Monolog and Symfony2 with Jordi Boggiano'
 abstract: 'Discussion on Symfony2, development of Composer and much more...'
 date: 2015-07-05T10:35:00.000Z
 file: 70-composer-monolog-and-symfony2-with-jordi-boggiano.mp3
-youtube: leHdV_NHv7M
 layout: podcast
 number: 70
 size: 31552750
 duration: 3256
+hosts: [Edd Mann]
+guests: [Jordi Boggiano]
 ---
 
 This week we are joined by Jordi Boggiano, Composer (Dependency Manager for PHP) lead and Symfony2 core developer.

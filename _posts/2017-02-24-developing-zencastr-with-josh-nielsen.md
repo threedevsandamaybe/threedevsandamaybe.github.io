@@ -7,6 +7,8 @@ layout: podcast
 number: 121
 size: 27783355
 duration: 2936
+hosts: [Edd Mann]
+guests: [Josh Nielsen]
 ---
 
 In this weeks episode we are joined by the creator of Zencastr, Josh Nielsen.

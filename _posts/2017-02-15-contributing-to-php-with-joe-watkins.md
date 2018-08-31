@@ -7,6 +7,8 @@ layout: podcast
 number: 120
 size: 26039854
 duration: 2949
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 In this weeks episode we chat to good friend of the show Joe Watkins.

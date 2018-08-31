@@ -3,11 +3,12 @@ title: "Guess Who's Back?"
 abstract: 'Discussion on Responsive Email Design, PHPStorm, Swift, Clean Coders and Task Managers'
 date: 2014-09-24T08:30:00.000Z
 file: 44-guess-whos-back.mp3
-youtube: hzafzH0h4jg
 layout: podcast
 number: 44
 size: 42267880
 duration: 3984
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 With Lewis back for this weeks show we have the first full-house in sometime, this sparks conversation on what he has got upto since his last appearance.

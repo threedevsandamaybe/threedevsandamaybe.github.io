@@ -3,12 +3,13 @@ title: HTML Experiences and Navigation Implementation - Part 2
 abstract: Part two of the HTML experiences discussion and navigation design.
 date: 2014-02-05T21:30:00.000Z
 file: 10-html-experiences-and-navigation-implementation-part-2.mp3
-youtube: sASPnCLmD0A
 layout: podcast
 number: 10
 size: 40252243
 redirect_from: /posts/html-experiences-and-navigation-implementation-part-2/
 duration: 4505
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 This week we wrap up the discussion on HTML, highlighting useful tools that we have encountered and incorporate into our work-flow.

@@ -7,6 +7,8 @@ layout: podcast
 number: 135
 size: 28825909
 duration: 2886
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this week's episode Edd and Mick catch-up after another long hiatus (sorry about that).

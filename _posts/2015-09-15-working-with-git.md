@@ -3,6 +3,8 @@ title: Working with Git
 abstract: Introductory screencast on getting to grips with day-to-day Git use
 date: 2015-09-15T08:30:00.000Z
 layout: screencast
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this screencast we take you through using the version control system Git on a day-to-day basis.

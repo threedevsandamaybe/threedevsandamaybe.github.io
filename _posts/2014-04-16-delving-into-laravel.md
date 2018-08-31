@@ -3,12 +3,13 @@ title: Delving into Laravel
 abstract: An introduction to the quickly growing PHP framework.
 date: 2014-04-16T22:30:00.000Z
 file: 20-delving-into-laravel.mp3
-youtube: WqYvTbTwDdE
 layout: podcast
 number: 20
 size: 40790160
 redirect_from: /posts/delving-into-laravel/
 duration: 4487
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 In this weeks show we follow up the discussion on CodeIgniter with an introduction to Laravel.

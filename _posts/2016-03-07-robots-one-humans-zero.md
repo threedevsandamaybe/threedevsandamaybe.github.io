@@ -7,6 +7,8 @@ layout: podcast
 number: 91
 size: 40174768
 duration: 3805
+hosts: [Edd Mann, Michael Budd, Lewis Cains, Fraser Hart]
+guests: []
 ---
 
 In this week's episode we start off the show with chat about Fraser's recent work event up in Newcastle and his experiences with Raspberry Pi's, Bluetooth Beacons and Promise Library memory-leaks.

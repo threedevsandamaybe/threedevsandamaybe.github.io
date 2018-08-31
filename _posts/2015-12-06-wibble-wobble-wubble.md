@@ -7,6 +7,8 @@ layout: podcast
 number: 81
 size: 37069396
 duration: 3787
+hosts: [Edd Mann, Michael Budd, Lewis Cains]
+guests: []
 ---
 
 On this week's ramble podcast we are joined by the Macintosh Speech Synthesis Manager!?

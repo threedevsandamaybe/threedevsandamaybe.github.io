@@ -3,12 +3,13 @@ title: Delving into CakePHP with James Watts
 abstract: An introduction to CakePHP and its future direction with James Watts.
 date: 2014-07-16T06:00:00.000Z
 file: 34-delving-into-cakephp-with-james-watts.mp3
-youtube: 0uHp2gYrLZo
 layout: podcast
 number: 34
 size: 34634455
 redirect_from: /posts/delving-into-cakephp-with-james-watts/
 duration: 3967
+hosts: [Edd Mann, Michael Budd]
+guests: [James Watts]
 ---
 
 This week we are very lucky to have James Watts, a core member of the CakePHP project on the show.

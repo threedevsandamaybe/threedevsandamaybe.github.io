@@ -7,6 +7,8 @@ layout: podcast
 number: 118
 size: 44316919
 duration: 4453
+hosts: [Edd Mann]
+guests: [Phil Sturgeon]
 ---
 
 In this weeks show we are joined by Phil Sturgeon to discuss all things API development.

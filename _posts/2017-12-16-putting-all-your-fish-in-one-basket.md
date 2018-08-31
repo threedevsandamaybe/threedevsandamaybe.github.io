@@ -7,6 +7,8 @@ layout: podcast
 number: 137
 size: 26546566
 duration: 2679
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode Mick and Edd first touch upon the many new services/features that have been released at AWS re:Invent.

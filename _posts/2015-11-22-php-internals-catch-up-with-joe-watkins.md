@@ -7,6 +7,8 @@ layout: podcast
 number: 78
 size: 32298748
 duration: 3701
+hosts: [Edd Mann]
+guests: [Joe Watkins]
 ---
 
 On this weeks show we are lucky to be joined by recurring guest and friend of the show Joe Watkins.

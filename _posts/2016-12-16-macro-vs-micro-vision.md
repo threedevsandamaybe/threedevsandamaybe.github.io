@@ -7,6 +7,8 @@ layout: podcast
 number: 113
 size: 28678079
 duration: 3109
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode we start off by congratulating Mick on handing in his masters dissertation.

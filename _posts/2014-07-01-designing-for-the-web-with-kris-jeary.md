@@ -3,12 +3,13 @@ title: Designing for the Web with Kris Jeary
 abstract: Discussion with Kris Jeary about his process used to design for the web.
 date: 2014-07-01T19:00:00.000Z
 file: 32-designing-for-the-web-with-kris-jeary.mp3
-youtube: mrrhnD1LrWk
 layout: podcast
 number: 32
 size: 39244660
 redirect_from: /posts/designing-for-the-web-with-kris-jeary/
 duration: 4280
+hosts: [Edd Mann, Lewis Cains, Michael Budd, Fraser Hart]
+guests: [Kris Jeary]
 ---
 
 This week we are lucky to have Kris Jeary on the show to discuss all things design.

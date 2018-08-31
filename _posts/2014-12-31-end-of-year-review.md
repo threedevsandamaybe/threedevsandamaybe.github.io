@@ -3,11 +3,12 @@ title: End of Year Review
 abstract: 'Product vs. agency work, project work-flow and architectural design'
 date: 2014-12-31T10:45:00.000Z
 file: 53-end-of-year-review.mp3
-youtube: '-mhFtthJ2Q4'
 layout: podcast
 number: 53
 size: 37770402
 duration: 3456
+hosts: [Edd Mann, Michael Budd]
+guests: []
 ---
 
 In this weeks episode Mick and Edd reflect on their busy years.

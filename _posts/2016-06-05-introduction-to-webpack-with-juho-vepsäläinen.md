@@ -7,6 +7,8 @@ layout: podcast
 number: 101
 size: 30106991
 duration: 2894
+hosts: [Edd Mann]
+guests: [Juho Vepsäläinen]
 ---
 
 In this weeks episode we talk to Juho Vepsäläinen about all things Webpack.

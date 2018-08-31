@@ -3,12 +3,13 @@ title: Exception and Error Handling
 abstract: 'An introduction to error handling, focusing on exceptions.'
 date: 2014-04-30T22:45:00.000Z
 file: 22-exception-and-error-handling.mp3
-youtube: mR3cN20SoWU
 layout: podcast
 number: 22
 size: 42662756
 redirect_from: /posts/exception-and-error-handling/
 duration: 4477
+hosts: [Edd Mann, Michael Budd, Fraser Hart, Lewis Cains]
+guests: []
 ---
 
 In this weeks show we introduce error handling, focusing on how exceptions are used.

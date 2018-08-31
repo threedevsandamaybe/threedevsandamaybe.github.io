@@ -3,12 +3,13 @@ title: Introduction to Software Testing
 abstract: An overview of the different types of automated software testing available.
 date: 2014-06-18T20:00:00.000Z
 file: 30-introduction-to-software-testing.mp3
-youtube: fpP6TB73dpM
 layout: podcast
 number: 30
 size: 39259423
 redirect_from: /posts/introduction-to-software-testing/
 duration: 3894
+hosts: [Edd Mann, Lewis Cains, Michael Budd, Fraser Hart]
+guests: []
 ---
 
 In this episode we introduce the very important topic of software testing.
