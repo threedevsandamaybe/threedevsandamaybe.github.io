@@ -1,0 +1,27 @@
+---
+layout: page
+title: Archive
+---
+
+{% assign guests = '' | split: '' %}
+{% for post in site.posts %}
+  {% if post.guests %}
+    {% assign guests = guests | concat: post.guests %}
+  {% endif %}
+{% endfor %}
+{% assign guests = guests | uniq | sort %}
+
+<a href="/archive">View by Year</a> | View by Guest
+
+<ul class="archive">
+  {% for guest in guests %}
+    <h3 id="{{ guest | downcase | replace: " ", "-" }}">{{ guest }}</h3>
+    {% for post in site.posts %}
+      {%- for pguest in post.guests -%}
+        {%- if guest == pguest -%}
+          <li>{{ post.date | date:"%b %y" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {%- endif -%}
+      {% endfor %}
+    {%- endfor -%}
+  {% endfor %}
+</ul>
